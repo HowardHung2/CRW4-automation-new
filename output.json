@@ -1,0 +1,637 @@
+{
+    "status": 0,
+    "result": [
+        {
+            "cas": "7790-91-2",
+            "status": 0,
+            "result": {
+                "cas": "7790-91-2",
+                "chemical_name": "CHLORINE TRIFLUORIDE"
+            }
+        },
+        {
+            "cas": "119-64-2",
+            "status": 0,
+            "result": {
+                "cas": "119-64-2",
+                "chemical_name": "TETRAHYDRONAPHTHALENE"
+            }
+        },
+        {
+            "cas": "120-71-8",
+            "status": 0,
+            "result": {
+                "cas": "120-71-8",
+                "chemical_name": "P-CRESIDINE"
+            }
+        },
+        {
+            "cas": "98136-99-3",
+            "status": 0,
+            "result": {
+                "cas": "98136-99-3",
+                "chemical_name": "BROMOCHLOROACETALDEHYDE"
+            }
+        },
+        {
+            "cas": "140-67-0",
+            "status": 0,
+            "result": {
+                "cas": "140-67-0",
+                "chemical_name": "ESTRAGOLE"
+            }
+        },
+        {
+            "cas": "306-83-2",
+            "status": 0,
+            "result": {
+                "cas": "306-83-2",
+                "chemical_name": "2,2-DICHLORO-1,1,1-TRIFLUOROETHANE"
+            }
+        },
+        {
+            "cas": "83-26-1",
+            "status": 0,
+            "result": {
+                "cas": "83-26-1",
+                "chemical_name": "PINDONE"
+            }
+        },
+        {
+            "cas": "4403-61-6",
+            "status": 0,
+            "result": {
+                "cas": "4403-61-6",
+                "chemical_name": "2-METHYL-2-BUTENENITRILE"
+            }
+        },
+        {
+            "cas": "21087-64-9",
+            "status": 0,
+            "result": {
+                "cas": "21087-64-9",
+                "chemical_name": "METRIBUZIN"
+            }
+        },
+        {
+            "cas": "10377-60-3",
+            "status": 0,
+            "result": {
+                "cas": "10377-60-3",
+                "chemical_name": "MAGNESIUM NITRATE"
+            }
+        },
+        {
+            "cas": "513-42-8",
+            "status": 0,
+            "result": {
+                "cas": "513-42-8",
+                "chemical_name": "METHALLYL ALCOHOL"
+            }
+        },
+        {
+            "cas": "59-67-6",
+            "status": 0,
+            "result": {
+                "cas": "59-67-6",
+                "chemical_name": "NICOTINIC ACID"
+            }
+        },
+        {
+            "cas": "629-82-3",
+            "status": 0,
+            "result": {
+                "cas": "629-82-3",
+                "chemical_name": "DI-N-OCTYL ETHER"
+            }
+        },
+        {
+            "cas": "12225-21-7",
+            "status": 0,
+            "result": {
+                "cas": "12225-21-7",
+                "chemical_name": "C.I. PIGMENT YELLOW 100"
+            }
+        },
+        {
+            "cas": "55406-53-6",
+            "status": 0,
+            "result": {
+                "cas": "55406-53-6",
+                "chemical_name": "3-IODO-2-PROPYNYL BUTYLCARBAMATE"
+            }
+        },
+        {
+            "cas": "644-97-3",
+            "status": 0,
+            "result": {
+                "cas": "644-97-3",
+                "chemical_name": "BENZENE PHOSPHORUS DICHLORIDE"
+            }
+        },
+        {
+            "cas": "4549-40-0",
+            "status": 0,
+            "result": {
+                "cas": "4549-40-0",
+                "chemical_name": "N-NITROSOMETHYLVINYLAMINE"
+            }
+        },
+        {
+            "cas": "1174-72-7",
+            "status": 0,
+            "result": {
+                "cas": "1174-72-7",
+                "chemical_name": "TETRAPHENOXYSILANE"
+            }
+        },
+        {
+            "cas": "627-05-4",
+            "status": 0,
+            "result": {
+                "cas": "627-05-4",
+                "chemical_name": "1-NITROBUTANE"
+            }
+        },
+        {
+            "cas": "92-06-8",
+            "status": 0,
+            "result": {
+                "cas": "92-06-8",
+                "chemical_name": "M-TERPHENYL"
+            }
+        },
+        {
+            "cas": "136013-79-1",
+            "status": 0,
+            "result": {
+                "cas": "136013-79-1",
+                "chemical_name": "1,3-DICHLORO-1,1,2,3,3-PENTAFLUOROPROPANE"
+            }
+        },
+        {
+            "cas": "106-97-8",
+            "status": 0,
+            "result": {
+                "cas": "106-97-8",
+                "chemical_name": "BUTANE"
+            }
+        },
+        {
+            "cas": "14124-68-6",
+            "status": 0,
+            "result": {
+                "cas": "14124-68-6",
+                "chemical_name": "SELENATES"
+            }
+        },
+        {
+            "cas": "75-25-2",
+            "status": 0,
+            "result": {
+                "cas": "75-25-2",
+                "chemical_name": "BROMOFORM"
+            }
+        },
+        {
+            "cas": "100-40-3",
+            "status": 0,
+            "result": {
+                "cas": "100-40-3",
+                "chemical_name": "VINYLCYCLOHEXENE"
+            }
+        },
+        {
+            "cas": "7446-11-9",
+            "status": 0,
+            "result": {
+                "cas": "7446-11-9",
+                "chemical_name": "SULFUR TRIOXIDE"
+            }
+        },
+        {
+            "cas": "35554-44-0",
+            "status": 0,
+            "result": {
+                "cas": "35554-44-0",
+                "chemical_name": "IMAZALIL"
+            }
+        },
+        {
+            "cas": "50-81-7",
+            "status": 0,
+            "result": {
+                "cas": "50-81-7",
+                "chemical_name": "L-ASCORBIC ACID"
+            }
+        },
+        {
+            "cas": "1693-71-6",
+            "status": 0,
+            "result": {
+                "cas": "1693-71-6",
+                "chemical_name": "TRIALLYL BORATE"
+            }
+        },
+        {
+            "cas": "65272-71-1",
+            "status": 0,
+            "result": {
+                "cas": "65272-71-1",
+                "chemical_name": "CHROMOSULFURIC ACID"
+            }
+        },
+        {
+            "cas": "10124-43-3",
+            "status": 0,
+            "result": {
+                "cas": "10124-43-3",
+                "chemical_name": "COBALT SULFATE"
+            }
+        },
+        {
+            "cas": "608-73-1",
+            "status": 0,
+            "result": {
+                "cas": "608-73-1",
+                "chemical_name": "HEXACHLOROCYCLOHEXANE (ALL ISOMERS)"
+            }
+        },
+        {
+            "cas": "504-60-9",
+            "status": 0,
+            "result": {
+                "cas": "504-60-9",
+                "chemical_name": "1,3-PENTADIENE"
+            }
+        },
+        {
+            "cas": "3064-70-8",
+            "status": 0,
+            "result": {
+                "cas": "3064-70-8",
+                "chemical_name": "BIS (TRICHLOROMETHYL) SULFONE"
+            }
+        },
+        {
+            "cas": "4813-58-5",
+            "status": 0,
+            "result": {
+                "cas": "4813-58-5",
+                "chemical_name": "ETHOXYLATED TETRADECANOL"
+            }
+        },
+        {
+            "cas": "7727-21-1",
+            "status": 0,
+            "result": {
+                "cas": "7727-21-1",
+                "chemical_name": "POTASSIUM PERSULFATE"
+            }
+        },
+        {
+            "cas": "6742-54-7",
+            "status": 0,
+            "result": {
+                "cas": "6742-54-7",
+                "chemical_name": "N-UNDECYLBENZENE"
+            }
+        },
+        {
+            "cas": "127-07-1",
+            "status": 0,
+            "result": {
+                "cas": "127-07-1",
+                "chemical_name": "HYDROXYUREA"
+            }
+        },
+        {
+            "cas": "1717-00-6",
+            "status": 0,
+            "result": {
+                "cas": "1717-00-6",
+                "chemical_name": "1,1-DICHLORO-1-FLUOROETHANE"
+            }
+        },
+        {
+            "cas": "482-89-3",
+            "status": 0,
+            "result": {
+                "cas": "482-89-3",
+                "chemical_name": "C.I. VAT BLUE 1"
+            }
+        },
+        {
+            "cas": "91-84-9",
+            "status": 0,
+            "result": {
+                "cas": "91-84-9",
+                "chemical_name": "PYRILAMINE"
+            }
+        },
+        {
+            "cas": "115-19-5",
+            "status": 0,
+            "result": {
+                "cas": "115-19-5",
+                "chemical_name": "2-METHYL-2-HYDROXY-3-BUTYNE"
+            }
+        },
+        {
+            "cas": "148-82-3",
+            "status": 0,
+            "result": {
+                "cas": "148-82-3",
+                "chemical_name": "MELPHALAN"
+            }
+        },
+        {
+            "cas": "10061-01-5",
+            "status": 0,
+            "result": {
+                "cas": "10061-01-5",
+                "chemical_name": "CIS-1,3-DICHLORO-1-PROPENE"
+            }
+        },
+        {
+            "cas": "16291-96-6",
+            "status": 0,
+            "result": {
+                "cas": "16291-96-6",
+                "chemical_name": "CARBON, ANIMAL OR VEGETABLE ORIGIN"
+            }
+        },
+        {
+            "cas": "107-81-3",
+            "status": 0,
+            "result": {
+                "cas": "107-81-3",
+                "chemical_name": "2-BROMOPENTANE"
+            }
+        },
+        {
+            "cas": "463-40-1",
+            "status": 0,
+            "result": {
+                "cas": "463-40-1",
+                "chemical_name": "LINOLENIC ACID"
+            }
+        },
+        {
+            "cas": "86-50-0",
+            "status": 0,
+            "result": {
+                "cas": "86-50-0",
+                "chemical_name": "AZINPHOS-METHYL"
+            }
+        },
+        {
+            "cas": "70399-13-2",
+            "status": 0,
+            "result": {
+                "cas": "70399-13-2",
+                "chemical_name": "LITHIUM FERROSILICON"
+            }
+        },
+        {
+            "cas": "16919-19-0",
+            "status": 0,
+            "result": {
+                "cas": "16919-19-0",
+                "chemical_name": "AMMONIUM FLUOROSILICATE"
+            }
+        },
+        {
+            "cas": "1314-56-3",
+            "status": 0,
+            "result": {
+                "cas": "1314-56-3",
+                "chemical_name": "PHOSPHORIC ANHYDRIDE"
+            }
+        },
+        {
+            "cas": "105-79-3",
+            "status": 0,
+            "result": {
+                "cas": "105-79-3",
+                "chemical_name": "ISOBUTYL CAPROATE"
+            }
+        },
+        {
+            "cas": "7790-94-5",
+            "status": 0,
+            "result": {
+                "cas": "7790-94-5",
+                "chemical_name": "CHLOROSULFONIC ACID"
+            }
+        },
+        {
+            "cas": "3848-24-6",
+            "status": 0,
+            "result": {
+                "cas": "3848-24-6",
+                "chemical_name": "2,3-HEXANEDIONE"
+            }
+        },
+        {
+            "cas": "137-41-7",
+            "status": 0,
+            "result": {
+                "cas": "137-41-7",
+                "chemical_name": "POTASSIUM N-METHYLDITHIOCARBAMATE"
+            }
+        },
+        {
+            "cas": "628-63-7",
+            "status": 0,
+            "result": {
+                "cas": "628-63-7",
+                "chemical_name": "N-AMYL ACETATE"
+            }
+        },
+        {
+            "cas": "84-69-5",
+            "status": 0,
+            "result": {
+                "cas": "84-69-5",
+                "chemical_name": "DI-ISOBUTYL PHTHALATE"
+            }
+        },
+        {
+            "cas": "6112-76-1",
+            "status": 0,
+            "result": {
+                "cas": "6112-76-1",
+                "chemical_name": "6-MERCAPTOPURINE MONOHYDRATE"
+            }
+        },
+        {
+            "cas": "78-53-5",
+            "status": 0,
+            "result": {
+                "cas": "78-53-5",
+                "chemical_name": "AMITON"
+            }
+        },
+        {
+            "cas": "21732-17-2",
+            "status": 0,
+            "result": {
+                "cas": "21732-17-2",
+                "chemical_name": "TETRAZOL-1-ACETIC ACID"
+            }
+        },
+        {
+            "cas": "1344-00-9",
+            "status": 0,
+            "result": {
+                "cas": "1344-00-9",
+                "chemical_name": "SODIUM ALUMINOSILICATE"
+            }
+        },
+        {
+            "cas": "1752-30-3",
+            "status": 0,
+            "result": {
+                "cas": "1752-30-3",
+                "chemical_name": "ACETONE THIOSEMICARBAZIDE"
+            }
+        },
+        {
+            "cas": "506-64-9",
+            "status": 0,
+            "result": {
+                "cas": "506-64-9",
+                "chemical_name": "SILVER CYANIDE"
+            }
+        },
+        {
+            "cas": "1304-29-6",
+            "status": 0,
+            "result": {
+                "cas": "1304-29-6",
+                "chemical_name": "BARIUM PEROXIDE"
+            }
+        },
+        {
+            "cas": "16051-77-7",
+            "status": 0,
+            "result": {
+                "cas": "16051-77-7",
+                "chemical_name": "ISOSORBIDE-5-MONONITRATE"
+            }
+        },
+        {
+            "cas": "505-60-2",
+            "status": 0,
+            "result": {
+                "cas": "505-60-2",
+                "chemical_name": "MUSTARD GAS"
+            }
+        },
+        {
+            "cas": "26447-14-3",
+            "status": 0,
+            "result": {
+                "cas": "26447-14-3",
+                "chemical_name": "CRESYL GLYCIDYL ETHER"
+            }
+        },
+        {
+            "cas": "67-72-1",
+            "status": 0,
+            "result": {
+                "cas": "67-72-1",
+                "chemical_name": "HEXACHLOROETHANE"
+            }
+        },
+        {
+            "cas": "2655-15-4",
+            "status": 0,
+            "result": {
+                "cas": "2655-15-4",
+                "chemical_name": "2,3,5-TRIMETHYLPHENYL METHYLCARBAMATE"
+            }
+        },
+        {
+            "cas": "57-50-1",
+            "status": 0,
+            "result": {
+                "cas": "57-50-1",
+                "chemical_name": "SUCROSE"
+            }
+        },
+        {
+            "cas": "12789-03-6",
+            "status": 0,
+            "result": {
+                "cas": "12789-03-6",
+                "chemical_name": "CHLORDANE (TECHNICAL MIXTURE AND METABOLITES)"
+            }
+        },
+        {
+            "cas": "8013-07-8",
+            "status": 0,
+            "result": {
+                "cas": "8013-07-8",
+                "chemical_name": "EPOXIDIZED VEGETABLE OILS"
+            }
+        },
+        {
+            "cas": "108-02-1",
+            "status": 0,
+            "result": {
+                "cas": "108-02-1",
+                "chemical_name": "2-(N,N-DIMETHYLAMINO)ETHANETHIOL"
+            }
+        },
+        {
+            "cas": "10326-27-9",
+            "status": 0,
+            "result": {
+                "cas": "10326-27-9",
+                "chemical_name": "BARIUM CHLORIDE DIHYDRATE"
+            }
+        },
+        {
+            "cas": "53404-37-8",
+            "status": 0,
+            "result": {
+                "cas": "53404-37-8",
+                "chemical_name": "2,4-D 2-ETHYL-4-METHYLPENTYL ESTER"
+            }
+        },
+        {
+            "cas": "10493-43-3",
+            "status": 0,
+            "result": {
+                "cas": "10493-43-3",
+                "chemical_name": "PERFLUORO(ETHYLVINYL ETHER)"
+            }
+        },
+        {
+            "cas": "636-26-0",
+            "status": 0,
+            "result": {
+                "cas": "636-26-0",
+                "chemical_name": "5-METHYL-2-THIOURACIL"
+            }
+        },
+        {
+            "cas": "75-79-6",
+            "status": 0,
+            "result": {
+                "cas": "75-79-6",
+                "chemical_name": "METHYLTRICHLOROSILANE"
+            }
+        },
+        {
+            "cas": "630-01-3",
+            "status": 0,
+            "result": {
+                "cas": "630-01-3",
+                "chemical_name": "N-HEXACOSANE"
+            }
+        }
+    ]
+}

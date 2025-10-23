@@ -1,0 +1,3261 @@
+{
+    "id": "001",
+    "total": 1000,
+    "detail": {
+        "success": 874,
+        "miss": 89,
+        "muiltiple": 37
+    },
+    "success_item": [
+        {
+            "619-17-0": "4-NITROANTHRANILIC ACID"
+        },
+        {
+            "1306-19-0": "CADMIUM OXIDE"
+        },
+        {
+            "29676-71-9": "2-AMINO-4-THIAZOLE ACETIC ACID"
+        },
+        {
+            "2475-33-4": "VAT BROWN 1"
+        },
+        {
+            "111-26-2": "HEXYLAMINE"
+        },
+        {
+            "7440-16-6": "RHODIUM (METAL FUME)"
+        },
+        {
+            "1111-78-0": "AMMONIUM CARBAMATE"
+        },
+        {
+            "106-87-6": "1-VINYL-3-CYCLOHEXENE DIOXIDE"
+        },
+        {
+            "1119-40-0": "DIMETHYL GLUTARATE"
+        },
+        {
+            "1498-60-8": "ISOPROPYLPHOSPHONOTHIOIC DICHLORIDE"
+        },
+        {
+            "51630-58-1": "FENVALERATE"
+        },
+        {
+            "119-15-3": "4-(2,4-DINITROANILINO)PHENOL"
+        },
+        {
+            "1314-24-5": "PHOSPHORUS TRIOXIDE"
+        },
+        {
+            "540-42-1": "ISOBUTYL PROPIONATE"
+        },
+        {
+            "62-74-8": "SODIUM FLUOROACETATE"
+        },
+        {
+            "1305-79-9": "CALCIUM PEROXIDE"
+        },
+        {
+            "19222-41-4": "AMMONIUM GLUCONATE"
+        },
+        {
+            "2439-10-3": "DODINE"
+        },
+        {
+            "65-46-3": "CYTIDINE"
+        },
+        {
+            "2167-23-9": "2,2-DI-(TERT-BUTYLPEROXY)BUTANE"
+        },
+        {
+            "59-33-6": "PYRILAMINE MALEATE"
+        },
+        {
+            "105-87-3": "GERANYL ACETATE"
+        },
+        {
+            "110-21-4": "BIUREA"
+        },
+        {
+            "112-30-1": "DECYL ALCOHOL"
+        },
+        {
+            "17341-40-1": "1,1-DIMETHYL-1-(2-HYDROXYPROPYLAMINE)METHACRYLIMIDE"
+        },
+        {
+            "2179-59-1": "ALLYL PROPYL DISULFIDE"
+        },
+        {
+            "623-42-7": "METHYL BUTYRATE"
+        },
+        {
+            "119-31-3": "3-DIMETHYLAMINO-4-METHYLPHENOL"
+        },
+        {
+            "55-91-4": "ISOFLUORPHATE"
+        },
+        {
+            "327-98-0": "TRICHLORONATE"
+        },
+        {
+            "39817-09-9": "METHYLENE BIS(PHENYLENEOXYMETHYLENE)BISOXIRANE"
+        },
+        {
+            "98-07-7": "BENZOTRICHLORIDE"
+        },
+        {
+            "83463-62-1": "BROMOCHLOROACETONITRILE"
+        },
+        {
+            "12184-88-2": "METAL HYDRIDES, WATER-REACTIVE, N.O.S."
+        },
+        {
+            "54413-15-9": "TRITONAL"
+        },
+        {
+            "3209-22-1": "2,3-DICHLORONITROBENZENE"
+        },
+        {
+            "25339-17-7": "ISODECYL ALCOHOL"
+        },
+        {
+            "563-68-8": "THALLIUM ACETATE"
+        },
+        {
+            "13098-39-0": "HEXAFLUOROACETONE SESQUIHYDRATE"
+        },
+        {
+            "2551-62-4": "SULFUR HEXAFLUORIDE"
+        },
+        {
+            "20098-48-0": "3,4,5-TRICHLORONITROBENZENE"
+        },
+        {
+            "2155-70-6": "TRIBUTYLTIN METHACRYLATE"
+        },
+        {
+            "16219-75-3": "ETHYLIDENE NORBORNENE"
+        },
+        {
+            "464-48-2": "L-CAMPHOR"
+        },
+        {
+            "112-61-8": "METHYL STEARATE"
+        },
+        {
+            "63449-41-2": "BENZYLDIMETHYL(MIXED ALKYL)AMMONIUM CHLORIDE"
+        },
+        {
+            "25251-51-8": "TERT-BUTYL PEROXY-3-PHENYLPHTHALIDE"
+        },
+        {
+            "143-50-0": "KEPONE"
+        },
+        {
+            "92-94-4": "P-TERPHENYL"
+        },
+        {
+            "6459-94-5": "C.I. ACID RED 114"
+        },
+        {
+            "27323-41-7": "TRIETHANOLAMINE DODECYLBENZENESULFONATE"
+        },
+        {
+            "528-74-5": "DICHLOROMETHOTREXATE"
+        },
+        {
+            "16731-55-8": "POTASSIUM METABISULFITE"
+        },
+        {
+            "144-80-9": "SULFACETAMIDE"
+        },
+        {
+            "133-07-3": "FOLPET"
+        },
+        {
+            "119-39-1": "1-(2H)-PHTHALAZINONE"
+        },
+        {
+            "70351-85-8": "HEXABUTOXYTRIPHENYLENE"
+        },
+        {
+            "68425-29-6": "GASOLINE BLENDING STOCKS: ALKYLATES"
+        },
+        {
+            "27134-27-6": "DICHLOROANILINES"
+        },
+        {
+            "684-93-5": "N-NITROSO-N-METHYLUREA"
+        },
+        {
+            "80-56-8": "ALPHA-PINENE"
+        },
+        {
+            "1162-65-8": "AFLATOXIN B-1"
+        },
+        {
+            "64973-06-4": "ARSENIC BROMIDE"
+        },
+        {
+            "94-74-6": "METHOXONE"
+        },
+        {
+            "69011-36-5": "ETHOXYLATED TRIDECANOL"
+        },
+        {
+            "709-98-8": "PROPANIL"
+        },
+        {
+            "14311-93-4": "ZIRCONIUM ACETATE"
+        },
+        {
+            "2438-88-2": "2,3,5,6-TETRACHLORO-4-NITROANISOLE"
+        },
+        {
+            "14977-61-8": "CHROMIUM OXYCHLORIDE"
+        },
+        {
+            "1185-81-5": "DIBUTYLTIN-BIS(LAURYL MERCAPTIDE)"
+        },
+        {
+            "7789-45-9": "COPPER(II) BROMIDE"
+        },
+        {
+            "6317-18-6": "METHYLENEBIS(THIOCYANATE)"
+        },
+        {
+            "87-33-2": "ISOSORBIDE DINITRATE MIXTURE"
+        },
+        {
+            "107-00-6": "ETHYL ACETYLENE, STABILIZED"
+        },
+        {
+            "8003-03-0": "APC"
+        },
+        {
+            "676-99-3": "DF"
+        },
+        {
+            "1333-41-1": "PICOLINES"
+        },
+        {
+            "1314-22-3": "ZINC PEROXIDE"
+        },
+        {
+            "7803-54-5": "MAGNESIUM DIAMIDE"
+        },
+        {
+            "7440-33-7": "TUNGSTEN"
+        },
+        {
+            "624-54-4": "N-PENTYL PROPIONATE"
+        },
+        {
+            "420-04-2": "CYANAMIDE"
+        },
+        {
+            "107-12-0": "PROPIONITRILE"
+        },
+        {
+            "793-24-8": "N-(1,3-DIMETHYLBUTYL)-N'-PHENYL-P-PHENYLENEDIAMINE"
+        },
+        {
+            "38727-55-8": "DIETHATYL ETHYL"
+        },
+        {
+            "302-79-4": "ALL-TRANS-RETINOIC ACID"
+        },
+        {
+            "2202-98-4": "DIETHYLENE GLYCOL PHTHALATE"
+        },
+        {
+            "142-47-2": "MONOSODIUM GLUTAMATE"
+        },
+        {
+            "28553-12-0": "DI-ISONONYL PHTHALATE"
+        },
+        {
+            "89-98-5": "2-CHLOROBENZALDEHYDE"
+        },
+        {
+            "28434-86-8": "3,3'-DICHLORO-4,4'-DIAMINODIPHENYL ETHER"
+        },
+        {
+            "104-51-8": "N-BUTYLBENZENE"
+        },
+        {
+            "2567-01-3": "PROPYLENE CYANOHYDRIN"
+        },
+        {
+            "625-16-1": "TERT-AMYL ACETATE"
+        },
+        {
+            "115-09-3": "METHYL MERCURY(II)CHLORIDE"
+        },
+        {
+            "2642-71-9": "AZINPHOS-ETHYL"
+        },
+        {
+            "463-51-4": "KETENE"
+        },
+        {
+            "84-61-7": "DICYCLOHEXYL PHTHALATE"
+        },
+        {
+            "352-70-5": "3-FLUOROTOLUENE"
+        },
+        {
+            "1795-48-8": "ISOPROPYL ISOCYANATE"
+        },
+        {
+            "67713-16-0": "HEXOTONAL <OR> HEXATONAL, CAST"
+        },
+        {
+            "2784-94-3": "HC BLUE 1"
+        },
+        {
+            "1321-12-6": "NITROTOLUENES"
+        },
+        {
+            "218-01-9": "CHRYSENE"
+        },
+        {
+            "75-12-7": "FORMAMIDE"
+        },
+        {
+            "1642-54-2": "DIETHYLCARBAMAZINE CITRATE"
+        },
+        {
+            "54150-69-5": "2,4-DIMETHOXYANILINE HYDROCHLORIDE"
+        },
+        {
+            "29761-21-5": "ISODECYL DIPHENYL PHOSPHATE"
+        },
+        {
+            "126-27-2": "OXETHAZAINE"
+        },
+        {
+            "75-15-0": "CARBON DISULFIDE"
+        },
+        {
+            "634-93-5": "2,4,6-TRICHLOROANILINE"
+        },
+        {
+            "150-38-9": "ETHYLENEDIAMINE TETRAACETIC ACID, TRISODIUM SALT"
+        },
+        {
+            "120-37-6": "3-ETHYLAMINO-4-METHYLPHENOL"
+        },
+        {
+            "393-75-9": "4-CHLORO-3,5-DINITRO-ALPHA,ALPHA,ALPHA-TRIFLUOROTOLUENE"
+        },
+        {
+            "1314-96-1": "STRONTIUM SULFIDE"
+        },
+        {
+            "19660-16-3": "2,3-DIBROMOPROPYL ACRYLATE"
+        },
+        {
+            "538-07-8": "ETHYLBIS(2-CHLOROETHYL)AMINE"
+        },
+        {
+            "2421-02-5": "1,1',1''-NITRILOTRIS-2-BUTANOL"
+        },
+        {
+            "139-02-6": "SODIUM PHENOLATE, SOLID"
+        },
+        {
+            "79-21-0": "PERACETIC ACID"
+        },
+        {
+            "6381-77-7": "SODIUM ERYTHORBATE"
+        },
+        {
+            "13746-89-9": "ZIRCONIUM NITRATE"
+        },
+        {
+            "108-44-1": "M-TOLUIDINE"
+        },
+        {
+            "91-57-6": "2-METHYLNAPHTHALENE"
+        },
+        {
+            "51845-86-4": "ETHYL BORATE"
+        },
+        {
+            "54-31-9": "FUROSEMIDE"
+        },
+        {
+            "123-19-3": "DIPROPYL KETONE"
+        },
+        {
+            "88671-89-0": "MYCLOBUTANIL"
+        },
+        {
+            "126-92-1": "SODIUM(2-ETHYLHEXYL)ALCOHOL SULFATE"
+        },
+        {
+            "61050-97-3": "TRIS(2-KETOPROPYL) ISOCYANURATE"
+        },
+        {
+            "556-61-6": "METHYL ISOTHIOCYANATE"
+        },
+        {
+            "627-20-3": "2-PENTENE, (Z)-"
+        },
+        {
+            "462-95-3": "DIETHOXYMETHANE"
+        },
+        {
+            "1397-94-0": "ANTIMYCIN A"
+        },
+        {
+            "78-85-3": "METHACRYLALDEHYDE"
+        },
+        {
+            "999-55-3": "ALLYL ACRYLATE"
+        },
+        {
+            "107-70-0": "4-METHOXY-4-METHYLPENTAN-2-ONE"
+        },
+        {
+            "628-81-9": "ETHYL BUTYL ETHER"
+        },
+        {
+            "101-61-1": "4,4'-METHYLENEBIS(N,N-DIMETHYL)BENZENAMINE"
+        },
+        {
+            "40766-31-2": "1-PHENYL-1-XYLYL ETHANE"
+        },
+        {
+            "2917-26-2": "1-HEXADECANETHIOL"
+        },
+        {
+            "39300-45-3": "DINOCAP"
+        },
+        {
+            "23950-58-5": "BENZAMIDE, 3,5-DICHLORO-N-(1,1-DIMETHYL-2-PROPYNYL)-"
+        },
+        {
+            "137-42-8": "METAM SODIUM (COMPOUNDS, WEED, KILLING, LIQUID)"
+        },
+        {
+            "1120-01-0": "HEXADECYL SULFATE, [SODIUM SALT]"
+        },
+        {
+            "137-09-7": "2,4-DIAMINOPHENOL DIHYDROCHLORIDE"
+        },
+        {
+            "598-55-0": "METHYL CARBAMATE"
+        },
+        {
+            "64-75-5": "TETRACYCLINE HYDROCHLORIDE"
+        },
+        {
+            "13464-33-0": "ZINC ARSENATE AND ZINC ARSENITE MIXTURE"
+        },
+        {
+            "39515-41-8": "FENPROPATHRIN"
+        },
+        {
+            "8013-07-8": "EPOXIDIZED VEGETABLE OILS"
+        },
+        {
+            "75-25-2": "BROMOFORM"
+        },
+        {
+            "35554-44-0": "IMAZALIL"
+        },
+        {
+            "115-19-5": "2-METHYL-2-HYDROXY-3-BUTYNE"
+        },
+        {
+            "6112-76-1": "6-MERCAPTOPURINE MONOHYDRATE"
+        },
+        {
+            "65272-71-1": "CHROMOSULFURIC ACID"
+        },
+        {
+            "16919-19-0": "AMMONIUM FLUOROSILICATE"
+        },
+        {
+            "482-89-3": "C.I. VAT BLUE 1"
+        },
+        {
+            "644-97-3": "BENZENE PHOSPHORUS DICHLORIDE"
+        },
+        {
+            "630-01-3": "N-HEXACOSANE"
+        },
+        {
+            "1174-72-7": "TETRAPHENOXYSILANE"
+        },
+        {
+            "628-63-7": "N-AMYL ACETATE"
+        },
+        {
+            "10493-43-3": "PERFLUORO(ETHYLVINYL ETHER)"
+        },
+        {
+            "1752-30-3": "ACETONE THIOSEMICARBAZIDE"
+        },
+        {
+            "3064-70-8": "BIS (TRICHLOROMETHYL) SULFONE"
+        },
+        {
+            "148-82-3": "MELPHALAN"
+        },
+        {
+            "504-60-9": "1,3-PENTADIENE"
+        },
+        {
+            "7446-11-9": "SULFUR TRIOXIDE"
+        },
+        {
+            "107-81-3": "2-BROMOPENTANE"
+        },
+        {
+            "53404-37-8": "2,4-D 2-ETHYL-4-METHYLPENTYL ESTER"
+        },
+        {
+            "1304-29-6": "BARIUM PEROXIDE"
+        },
+        {
+            "1693-71-6": "TRIALLYL BORATE"
+        },
+        {
+            "1314-56-3": "PHOSPHORIC ANHYDRIDE"
+        },
+        {
+            "16051-77-7": "ISOSORBIDE-5-MONONITRATE"
+        },
+        {
+            "57-50-1": "SUCROSE"
+        },
+        {
+            "106-97-8": "BUTANE"
+        },
+        {
+            "7790-94-5": "CHLOROSULFONIC ACID"
+        },
+        {
+            "10124-43-3": "COBALT SULFATE"
+        },
+        {
+            "1344-00-9": "SODIUM ALUMINOSILICATE"
+        },
+        {
+            "1717-00-6": "1,1-DICHLORO-1-FLUOROETHANE"
+        },
+        {
+            "70399-13-2": "LITHIUM FERROSILICON"
+        },
+        {
+            "2655-15-4": "2,3,5-TRIMETHYLPHENYL METHYLCARBAMATE"
+        },
+        {
+            "4403-61-6": "2-METHYL-2-BUTENENITRILE"
+        },
+        {
+            "10326-27-9": "BARIUM CHLORIDE DIHYDRATE"
+        },
+        {
+            "55406-53-6": "3-IODO-2-PROPYNYL BUTYLCARBAMATE"
+        },
+        {
+            "91-84-9": "PYRILAMINE"
+        },
+        {
+            "12225-21-7": "C.I. PIGMENT YELLOW 100"
+        },
+        {
+            "50-81-7": "L-ASCORBIC ACID"
+        },
+        {
+            "10061-01-5": "CIS-1,3-DICHLORO-1-PROPENE"
+        },
+        {
+            "16291-96-6": "CARBON, ANIMAL OR VEGETABLE ORIGIN"
+        },
+        {
+            "506-64-9": "SILVER CYANIDE"
+        },
+        {
+            "7727-21-1": "POTASSIUM PERSULFATE"
+        },
+        {
+            "119-64-2": "TETRAHYDRONAPHTHALENE"
+        },
+        {
+            "75-79-6": "METHYLTRICHLOROSILANE"
+        },
+        {
+            "12789-03-6": "CHLORDANE (TECHNICAL MIXTURE AND METABOLITES)"
+        },
+        {
+            "21732-17-2": "TETRAZOL-1-ACETIC ACID"
+        },
+        {
+            "627-05-4": "1-NITROBUTANE"
+        },
+        {
+            "105-79-3": "ISOBUTYL CAPROATE"
+        },
+        {
+            "6742-54-7": "N-UNDECYLBENZENE"
+        },
+        {
+            "636-26-0": "5-METHYL-2-THIOURACIL"
+        },
+        {
+            "86-50-0": "AZINPHOS-METHYL"
+        },
+        {
+            "59-67-6": "NICOTINIC ACID"
+        },
+        {
+            "83-26-1": "PINDONE"
+        },
+        {
+            "505-60-2": "MUSTARD GAS"
+        },
+        {
+            "26447-14-3": "CRESYL GLYCIDYL ETHER"
+        },
+        {
+            "463-40-1": "LINOLENIC ACID"
+        },
+        {
+            "608-73-1": "HEXACHLOROCYCLOHEXANE (ALL ISOMERS)"
+        },
+        {
+            "98136-99-3": "BROMOCHLOROACETALDEHYDE"
+        },
+        {
+            "137-41-7": "POTASSIUM N-METHYLDITHIOCARBAMATE"
+        },
+        {
+            "4813-58-5": "ETHOXYLATED TETRADECANOL"
+        },
+        {
+            "108-02-1": "2-(N,N-DIMETHYLAMINO)ETHANETHIOL"
+        },
+        {
+            "136013-79-1": "1,3-DICHLORO-1,1,2,3,3-PENTAFLUOROPROPANE"
+        },
+        {
+            "120-71-8": "P-CRESIDINE"
+        },
+        {
+            "629-82-3": "DI-N-OCTYL ETHER"
+        },
+        {
+            "84-69-5": "DI-ISOBUTYL PHTHALATE"
+        },
+        {
+            "140-67-0": "ESTRAGOLE"
+        },
+        {
+            "10377-60-3": "MAGNESIUM NITRATE"
+        },
+        {
+            "7790-91-2": "CHLORINE TRIFLUORIDE"
+        },
+        {
+            "3848-24-6": "2,3-HEXANEDIONE"
+        },
+        {
+            "67-72-1": "HEXACHLOROETHANE"
+        },
+        {
+            "100-40-3": "VINYLCYCLOHEXENE"
+        },
+        {
+            "78-53-5": "AMITON"
+        },
+        {
+            "4549-40-0": "N-NITROSOMETHYLVINYLAMINE"
+        },
+        {
+            "127-07-1": "HYDROXYUREA"
+        },
+        {
+            "513-42-8": "METHALLYL ALCOHOL"
+        },
+        {
+            "14124-68-6": "SELENATES"
+        },
+        {
+            "306-83-2": "2,2-DICHLORO-1,1,1-TRIFLUOROETHANE"
+        },
+        {
+            "92-06-8": "M-TERPHENYL"
+        },
+        {
+            "21087-64-9": "METRIBUZIN"
+        },
+        {
+            "137-30-4": "ZIRAM"
+        },
+        {
+            "33229-34-4": "HC BLUE 2"
+        },
+        {
+            "63-74-1": "SULFANILAMIDE"
+        },
+        {
+            "1477-42-5": "2-AMINO-4-METHYLBENZOTHIAZOLE"
+        },
+        {
+            "14666-78-5": "DIETHYL PEROXYDICARBONATE"
+        },
+        {
+            "3268-87-9": "OCTACHLORODIBENZO-P-DIOXIN"
+        },
+        {
+            "68551-12-2": "ALCOHOL C-12 C-16 POLY (1-6) ETHOXYLATE"
+        },
+        {
+            "2570-26-5": "PENTADECYLAMINE"
+        },
+        {
+            "3926-62-3": "SODIUM CHLOROACETATE"
+        },
+        {
+            "97-77-8": "TETRAETHYLTHIURAM DISULFIDE"
+        },
+        {
+            "3018-12-0": "DICHLOROACETONITRILE"
+        },
+        {
+            "495-18-1": "N-HYDROXYBENZAMIDE"
+        },
+        {
+            "1312-03-4": "MERCURIC SUBSULFATE, [SOLID]"
+        },
+        {
+            "25322-69-4": "POLYPROPYLENE GLYCOL"
+        },
+        {
+            "1229-35-2": "METHDILAZINE HYDROCHLORIDE"
+        },
+        {
+            "1455-21-6": "1-NONANETHIOL"
+        },
+        {
+            "12122-67-7": "ZINEB"
+        },
+        {
+            "75-55-8": "PROPYLENEIMINE, STABILIZED"
+        },
+        {
+            "75-19-4": "CYCLOPROPANE"
+        },
+        {
+            "123-15-9": "ALPHA-METHYLVALERALDEHYDE"
+        },
+        {
+            "7452-79-1": "ETHYL-2-METHYL BUTYRATE"
+        },
+        {
+            "681-84-5": "METHYL ORTHOSILICATE"
+        },
+        {
+            "123-35-3": "MYRCENE, [LIQUID]"
+        },
+        {
+            "7758-95-4": "LEAD CHLORIDE"
+        },
+        {
+            "629-97-0": "N-DOCOSANE"
+        },
+        {
+            "489-98-5": "2,4,6-TRINITROANILINE"
+        },
+        {
+            "62765-93-9": "NIAX® CATALYST ESN"
+        },
+        {
+            "536-90-3": "M-ANISIDINE"
+        },
+        {
+            "7784-21-6": "ALUMINUM HYDRIDE"
+        },
+        {
+            "6471-49-4": "C.I. PIGMENT RED 23"
+        },
+        {
+            "762-16-3": "CAPRYLYL PEROXIDE"
+        },
+        {
+            "124-22-1": "DODECANAMINE"
+        },
+        {
+            "556-08-1": "P-ACETAMIDOBENZOIC ACID"
+        },
+        {
+            "598-14-1": "ETHYLDICHLOROARSINE"
+        },
+        {
+            "530-50-7": "DIPHENYLHYDRAZINE"
+        },
+        {
+            "110-68-9": "N-METHYLBUTYLAMINE"
+        },
+        {
+            "3081-14-9": "N,N'-BIS(1,4-DIMETHYLPENTYL)-P-PHENYLENEDIAMINE"
+        },
+        {
+            "3564-09-8": "PONCEAU 3R"
+        },
+        {
+            "592-01-8": "CALCIUM CYANIDE"
+        },
+        {
+            "1794-86-1": "PHOSGENE OXIME"
+        },
+        {
+            "3457-61-2": "TERT-BUTYL CUMENE PEROXIDE"
+        },
+        {
+            "68915-66-2": "FATTY ACIDS, C5-10, ESTERS WITH POLYPENTAERYTHRITOL"
+        },
+        {
+            "82-28-0": "1-AMINO-2-METHYLANTHRAQUINONE"
+        },
+        {
+            "12024-21-4": "GALLIUM OXIDE"
+        },
+        {
+            "20020-02-4": "1,2,3,4-TETRACHLORONAPHTHALENE"
+        },
+        {
+            "81-55-0": "1,8-DIHYDROXY-4,5-DINITROANTHRAQUINONE"
+        },
+        {
+            "545-06-2": "TRICHLOROACETONITRILE"
+        },
+        {
+            "116-54-1": "METHYL DICHLOROACETATE"
+        },
+        {
+            "8001-35-2": "TOXAPHENE"
+        },
+        {
+            "7696-12-0": "TETRAMETHRIN"
+        },
+        {
+            "4320-30-3": "L-ARGINYL-L-GLUTAMATE"
+        },
+        {
+            "143-18-0": "POTASSIUM OLEATE"
+        },
+        {
+            "108-64-5": "ETHYL ISOVALERATE"
+        },
+        {
+            "20068-02-4": "CIS-2-METHYL-2-BUTENENITRILE"
+        },
+        {
+            "34077-87-7": "DICHLOROTRIFLUOROETHANE"
+        },
+        {
+            "622-51-5": "P-TOLYLUREA"
+        },
+        {
+            "70-34-8": "2,4-DINITROFLUOROBENZENE"
+        },
+        {
+            "7783-56-4": "ANTIMONY TRIFLUORIDE"
+        },
+        {
+            "79869-58-2": "PROPANETHIOLS"
+        },
+        {
+            "18130-74-0": "HYDROGENDIFLUORIDES, N.O.S."
+        },
+        {
+            "10326-21-3": "MAGNESIUM CHLORATE"
+        },
+        {
+            "9003-07-0": "POLYPROPYLENE"
+        },
+        {
+            "557-20-0": "DIETHYLZINC"
+        },
+        {
+            "103-70-8": "FORMANILIDE"
+        },
+        {
+            "27156-03-2": "DICHLORODIFLUOROETHYLENE"
+        },
+        {
+            "93-43-6": "2-NAPHTHYL LACTATE"
+        },
+        {
+            "6358-18-5": "4-CHLORO-2-(2,4-DINITROANILINO)PHENOL"
+        },
+        {
+            "24815-24-5": "RESCINNAMINE"
+        },
+        {
+            "50-32-8": "BENZO[A]PYRENE"
+        },
+        {
+            "102-28-3": "M-AMINOACETANILIDE"
+        },
+        {
+            "17462-58-7": "SEC-BUTYL CHLOROFORMATE"
+        },
+        {
+            "95-76-1": "3,4-DICHLOROANILINE"
+        },
+        {
+            "14708-14-6": "NICKEL FLUOROBORATE"
+        },
+        {
+            "115-11-7": "ISOBUTYLENE"
+        },
+        {
+            "12002-48-1": "TRICHLOROBENZENES, LIQUID"
+        },
+        {
+            "5421-46-5": "AMMONIUM THIOGLYCOLATE"
+        },
+        {
+            "2425-06-1": "CAPTAFOL"
+        },
+        {
+            "16111-62-9": "DI-(2-ETHYLHEXYL) PEROXYDICARBONATE, [TECHNICALLY PURE]"
+        },
+        {
+            "16938-22-0": "2,2,4-TRIMETHYLHEXAMETHYLENE DIISOCYANATE"
+        },
+        {
+            "89-78-1": "D,L-MENTHOL"
+        },
+        {
+            "67634-00-8": "(3-METHYLBUTOXY)ACETIC ACID, 2-PROPENYL ESTER"
+        },
+        {
+            "140-08-9": "TRIS(2-CHLOROETHYL)PHOSPHITE"
+        },
+        {
+            "29595-25-3": "AMMONIUM DINITRO-O-CRESOLATE"
+        },
+        {
+            "4418-26-2": "SODIUM DEHYDROACETATE"
+        },
+        {
+            "6041-94-7": "PIGMENT RED 2"
+        },
+        {
+            "22966-79-6": "ESTRADIOL MUSTARD"
+        },
+        {
+            "693-21-0": "DIETHYLENE GLYCOL DINITRATE"
+        },
+        {
+            "7166-19-0": "BETA-BROMO-BETA-NITROSTYRENE"
+        },
+        {
+            "1304-28-5": "BARIUM OXIDE"
+        },
+        {
+            "439-14-5": "DIAZEPAM"
+        },
+        {
+            "3165-93-3": "4-CHLORO-O-TOLUIDINE HYDROCHLORIDE"
+        },
+        {
+            "55-38-9": "FENTHION"
+        },
+        {
+            "723-46-6": "SULFAMETHOXAZOLE"
+        },
+        {
+            "3129-91-7": "DICYCLOHEXYLAMMONIUM NITRITE"
+        },
+        {
+            "542-76-7": "PROPIONITRILE, 3-CHLORO-"
+        },
+        {
+            "2540-82-1": "FORMOTHION"
+        },
+        {
+            "609-20-1": "2,6-DICHLORO-P-PHENYLENEDIAMINE"
+        },
+        {
+            "629-94-7": "N-HENEICOSANE"
+        },
+        {
+            "53-86-1": "INDOMETHACIN"
+        },
+        {
+            "7521-80-4": "BUTYLTRICHLOROSILANE"
+        },
+        {
+            "620-22-4": "M-TOLUNITRILE"
+        },
+        {
+            "88-75-5": "2-NITROPHENOL"
+        },
+        {
+            "8032-32-4": "PETROLEUM NAPHTHA, [V.M. & P.]"
+        },
+        {
+            "543-27-1": "ISOBUTYL CHLOROFORMATE"
+        },
+        {
+            "11084-85-8": "CHLORINATED TRISODIUM PHOSPHATE"
+        },
+        {
+            "107-19-7": "PROPARGYL ALCOHOL"
+        },
+        {
+            "65996-92-1": "COAL TAR PITCH"
+        },
+        {
+            "79-04-9": "CHLOROACETYL CHLORIDE"
+        },
+        {
+            "438-41-5": "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+        },
+        {
+            "2624-17-1": "SODIUM CYANURATE"
+        },
+        {
+            "22128-62-7": "CHLOROMETHYL CHLOROFORMATE"
+        },
+        {
+            "25154-55-6": "NITROPHENOLS"
+        },
+        {
+            "25637-99-4": "HEXABROMOCYCLODODECANE"
+        },
+        {
+            "15950-66-0": "2,3,4-TRICHLOROPHENOL"
+        },
+        {
+            "91-58-7": "2-CHLORONAPHTHALENE"
+        },
+        {
+            "506-77-4": "CYANOGEN CHLORIDE, STABILIZED"
+        },
+        {
+            "4104-14-7": "PHOSACETIM"
+        },
+        {
+            "577-11-7": "DIOCTYL SODIUM SULFOSUCCINATE"
+        },
+        {
+            "124-07-2": "OCTANOIC ACID"
+        },
+        {
+            "3648-20-2": "DIUNDECYL PHTHALATE"
+        },
+        {
+            "476-66-4": "ELLAGIC ACID"
+        },
+        {
+            "25496-08-6": "FLUOROTOLUENES"
+        },
+        {
+            "824-72-6": "BENZENE PHOSPHORUS OXYDICHLORIDE"
+        },
+        {
+            "2665-30-7": "PHOSPHONOTHIOIC ACID, METHYL-,O-(4-NITROPHENYL) O-PHENYL ESTER"
+        },
+        {
+            "638-67-5": "TRICOSANE"
+        },
+        {
+            "6201-87-2": "5-AMINO-3-SULFOSALICYLIC ACID"
+        },
+        {
+            "112-80-1": "OLEIC ACID"
+        },
+        {
+            "13450-90-3": "GALLIUM TRICHLORIDE"
+        },
+        {
+            "118-92-3": "ANTHRANILIC ACID"
+        },
+        {
+            "8049-17-0": "FERROSILICON"
+        },
+        {
+            "107-18-6": "ALLYL ALCOHOL"
+        },
+        {
+            "101-54-2": "N-PHENYL-P-PHENYLENEDIAMINE"
+        },
+        {
+            "932-64-9": "NITROTRIAZOLONE <OR> NTO"
+        },
+        {
+            "75-07-0": "ACETALDEHYDE"
+        },
+        {
+            "115-90-2": "FENSULFOTHION"
+        },
+        {
+            "107-03-9": "PROPYL MERCAPTAN"
+        },
+        {
+            "593-67-9": "ETHYLENEAMINE"
+        },
+        {
+            "16842-03-8": "COBALT HYDROCARBONYL"
+        },
+        {
+            "534-22-5": "2-METHYLFURAN"
+        },
+        {
+            "7440-25-7": "TANTALUM (METAL AND OXIDE DUST)"
+        },
+        {
+            "25584-83-2": "HYDROXYPROPYL ACRYLATE"
+        },
+        {
+            "123-33-1": "MALEIC HYDRAZIDE"
+        },
+        {
+            "16871-71-9": "ZINC FLUOROSILICATE"
+        },
+        {
+            "544-76-3": "N-HEXADECANE"
+        },
+        {
+            "8012-75-7": "CALCIUM CHROMATE DIHYDRATE"
+        },
+        {
+            "50-91-9": "5-FLUORODEOXYURIDINE"
+        },
+        {
+            "59-14-3": "5-BROMO-2'-DEOXYURIDINE"
+        },
+        {
+            "115-02-6": "AZASERINE"
+        },
+        {
+            "13987-01-4": "TRIPROPYLENE"
+        },
+        {
+            "34580-13-7": "KETOTIFEN"
+        },
+        {
+            "75-00-3": "ETHYL CHLORIDE"
+        },
+        {
+            "63885-01-8": "ZINC AMMONIUM NITRITE"
+        },
+        {
+            "55285-14-8": "CARBOSULFAN"
+        },
+        {
+            "7789-30-2": "BROMINE PENTAFLUORIDE"
+        },
+        {
+            "50-78-2": "ACETYLSALICYLIC ACID"
+        },
+        {
+            "108-46-3": "RESORCINOL"
+        },
+        {
+            "1703-58-8": "1,2,3,4-BUTANETETRACARBOXYLIC ACID"
+        },
+        {
+            "13284-07-6": "4,4'-DIACETYL-BIS(AMIDINOHYDRAZONE)CARBANILIDE DIHYDROCHLORIDE TRIHYDRATE"
+        },
+        {
+            "136-35-6": "1,3-DIPHENYLTRIAZENE"
+        },
+        {
+            "103-30-0": "TRANS-STILBENE"
+        },
+        {
+            "120-66-1": "O-ACETOTOLUIDIDE"
+        },
+        {
+            "6358-15-2": "2-AMINO-3,4,6-TRICHLOROPHENOL"
+        },
+        {
+            "7784-37-4": "MERCURIC ARSENATE"
+        },
+        {
+            "6923-22-4": "MONOCROTOPHOS"
+        },
+        {
+            "19624-22-7": "PENTABORANE"
+        },
+        {
+            "87-82-1": "HEXABROMOBENZENE"
+        },
+        {
+            "13768-86-0": "SELENIUM TRIOXIDE"
+        },
+        {
+            "24468-13-1": "2-ETHYLHEXYL CHLOROFORMATE"
+        },
+        {
+            "39300-88-4": "TARA GUM"
+        },
+        {
+            "3234-02-4": "TRANS-2,3-DIBROMO-2-BUTENE-1,4-DIOL"
+        },
+        {
+            "109-57-9": "ALLYLTHIOUREA"
+        },
+        {
+            "1465-25-4": "N-(1-NAPHTHYL)ETHYLENEDIAMINE DIHYDROCHLORIDE"
+        },
+        {
+            "8049-19-2": "FERROPHOSPHORUS"
+        },
+        {
+            "108-23-6": "ISOPROPYL CHLOROFORMATE"
+        },
+        {
+            "51774-11-9": "ISO HEPTYL ALCOHOL"
+        },
+        {
+            "10241-05-1": "MOLYBDENUM PENTACHLORIDE"
+        },
+        {
+            "26472-00-4": "METHYLCYCLOPENTADIENE DIMER, [LIQUID]"
+        },
+        {
+            "73459-03-7": "5-METHYLISOPSORALEN"
+        },
+        {
+            "156-62-7": "CALCIUM CYANAMIDE, WITH MORE THAN 0.1% CALCIUM CARBIDE"
+        },
+        {
+            "2958-09-0": "STEARYL ACID PHOSPHATE"
+        },
+        {
+            "5131-60-2": "4-CHLORO-M-PHENYLENEDIAMINE"
+        },
+        {
+            "76-87-9": "TRIPHENYLTIN HYDROXIDE"
+        },
+        {
+            "31430-18-9": "NOCODAZOLE"
+        },
+        {
+            "1064-48-8": "C.I. ACID BLACK 1"
+        },
+        {
+            "27134-26-5": "CHLOROANILINES, LIQUID"
+        },
+        {
+            "103-85-5": "PHENYLTHIOUREA"
+        },
+        {
+            "55794-20-2": "ETHYL-3,3-DI-(TERT-BUTYLPEROXY)BUTYRATE, [TECHNICALLY PURE]"
+        },
+        {
+            "2508-19-2": "TRINITROBENZENE SULFONIC ACID"
+        },
+        {
+            "97-24-5": "2,2'-THIOBIS(4-CHLOROPHENOL)"
+        },
+        {
+            "23474-91-1": "TERT-BUTYL PEROXYCROTONATE"
+        },
+        {
+            "54-88-6": "2-METHYL-4-DIMETHYLAMINOAZOBENZENE"
+        },
+        {
+            "26896-20-8": "NEODECANOIC ACID"
+        },
+        {
+            "192-97-2": "BENZO(E)PYRENE"
+        },
+        {
+            "55-31-2": "EPINEPHRINE HYDROCHLORIDE"
+        },
+        {
+            "29082-74-4": "OCTACHLOROSTYRENE"
+        },
+        {
+            "1747-60-0": "2-AMINO-6-METHOXYBENZOTHIAZOLE"
+        },
+        {
+            "131-11-3": "DIMETHYL PHTHALATE"
+        },
+        {
+            "127564-92-5": "DICHLOROPENTAFLUOROPROPANE"
+        },
+        {
+            "54-85-3": "ISONIAZID"
+        },
+        {
+            "10026-24-1": "COBALT SULFATE HEPTAHYDRATE"
+        },
+        {
+            "75-38-7": "1,1-DIFLUOROETHYLENE"
+        },
+        {
+            "5809-08-5": "1,1,3,3-TETRAMETHYLBUTYL HYDROPEROXIDE"
+        },
+        {
+            "10140-87-1": "ETHANOL, 1,2-DICHLORO-, ACETATE"
+        },
+        {
+            "110-96-3": "DIISOBUTYLAMINE"
+        },
+        {
+            "9005-25-8": "STARCH"
+        },
+        {
+            "8013-75-0": "FUSEL OIL"
+        },
+        {
+            "64741-62-4": "OILS: CLARIFIED"
+        },
+        {
+            "2398-96-1": "TOLNAFTATE"
+        },
+        {
+            "1344-48-5": "MERCURIC SULFIDE"
+        },
+        {
+            "52326-66-6": "DISTEARYL PEROXYDICARBONATE"
+        },
+        {
+            "9008-34-8": "MANGANESE RESINATE"
+        },
+        {
+            "53558-25-1": "PYRIMINIL"
+        },
+        {
+            "330-54-1": "DIURON"
+        },
+        {
+            "116-15-4": "HEXAFLUOROPROPYLENE"
+        },
+        {
+            "27176-87-0": "DODECYLBENZENESULFONIC ACID"
+        },
+        {
+            "926-56-7": "METHYLPENTADIENE"
+        },
+        {
+            "591-93-5": "1,4-PENTADIENE"
+        },
+        {
+            "93-15-2": "METHYLEUGENOL"
+        },
+        {
+            "2429-71-2": "C.I. DIRECT BLUE 8"
+        },
+        {
+            "98516-30-4": "ETHOXYPROPYL ACETATE"
+        },
+        {
+            "14882-18-9": "BISMUTH SUBSALICYLATE"
+        },
+        {
+            "109-79-5": "BUTYL MERCAPTAN"
+        },
+        {
+            "26445-05-6": "AMINOPYRIDINES"
+        },
+        {
+            "112-07-2": "ETHYLENE GLYCOL MONOBUTYL ETHER ACETATE"
+        },
+        {
+            "1197-01-9": "P-CYMEN-8-OL"
+        },
+        {
+            "10049-05-5": "CHROMOUS CHLORIDE"
+        },
+        {
+            "54-64-8": "MERCURY((O-CARBOXYPHENYL)THIO)ETHYL, SODIUM SALT"
+        },
+        {
+            "95-95-4": "2,4,5-TRICHLOROPHENOL"
+        },
+        {
+            "431-86-7": "1,2-DICHLORO-1,1,3,3,3-PENTAFLUOROPROPANE"
+        },
+        {
+            "111-11-5": "METHYL OCTANOATE"
+        },
+        {
+            "119-34-6": "4-AMINO-2-NITROPHENOL"
+        },
+        {
+            "12002-43-6": "GILSONITE"
+        },
+        {
+            "89-87-2": "1,3-DIMETHYL-4-NITROBENZENE"
+        },
+        {
+            "122-60-1": "PHENYL GLYCIDYL ETHER"
+        },
+        {
+            "354-23-4": "1,2-DICHLORO-1,1,2-TRIFLUOROETHANE"
+        },
+        {
+            "26571-79-9": "CHLOROPHENYLTRICHLOROSILANE"
+        },
+        {
+            "71-27-2": "SUXAMETHONIUM DICHLORIDE"
+        },
+        {
+            "35691-65-7": "1-BROMO-1-(BROMOMETHYL)-1,3-PROPANEDICARBONITRILE"
+        },
+        {
+            "7782-39-0": "DEUTERIUM"
+        },
+        {
+            "938-73-8": "2-ETHOXYBENZAMIDE"
+        },
+        {
+            "4376-20-9": "MONO(2-ETHYLHEXYL)PHTHALATE"
+        },
+        {
+            "522-40-7": "DIETHYLSTILBESTROL DIPHOSPHATE"
+        },
+        {
+            "100-19-6": "P-NITROACETOPHENONE"
+        },
+        {
+            "72-57-1": "TRYPAN BLUE"
+        },
+        {
+            "957-51-7": "DIPHENAMID"
+        },
+        {
+            "99-56-9": "4-NITRO-O-PHENYLENEDIAMINE"
+        },
+        {
+            "7673-09-8": "TRICHLOROMELAMINE"
+        },
+        {
+            "83-72-7": "2-HYDROXY-1,4-NAPHTHOQUINONE"
+        },
+        {
+            "1719-05-7": "D&C ORANGE 5 ZIRCONIUM LAKE"
+        },
+        {
+            "570-24-1": "2-METHYL-6-NITROANILINE"
+        },
+        {
+            "543-67-9": "PROPIONITRITE"
+        },
+        {
+            "1320-67-8": "POLYPROPYLENE GLYCOL METHYL ETHER"
+        },
+        {
+            "6633-40-5": "2-HYDROXY-7-NITROFLUORENE"
+        },
+        {
+            "72-55-9": "P,P'-DDE"
+        },
+        {
+            "27598-85-2": "AMINOPHENOLS"
+        },
+        {
+            "11099-03-9": "C.I. SOLVENT BLACK 5"
+        },
+        {
+            "13718-59-7": "BARIUM SELENITE"
+        },
+        {
+            "583-59-5": "2-METHYLCYCLOHEXANOL"
+        },
+        {
+            "108-86-1": "BROMOBENZENE"
+        },
+        {
+            "1332-07-6": "ZINC BORATE"
+        },
+        {
+            "834-28-6": "PHENFORMIN HYDROCHLORIDE"
+        },
+        {
+            "110-58-7": "N-AMYLAMINE"
+        },
+        {
+            "10361-37-2": "BARIUM CHLORIDE"
+        },
+        {
+            "102-36-3": "ISOCYANIC ACID, 3,4-DICHLOROPHENYL ESTER"
+        },
+        {
+            "53469-21-9": "PCB-1242"
+        },
+        {
+            "75-99-0": "2,2-DICHLOROPROPIONIC ACID"
+        },
+        {
+            "300-76-5": "NALED"
+        },
+        {
+            "88-06-2": "2,4,6-TRICHLOROPHENOL"
+        },
+        {
+            "143-13-5": "NONYL ACETATE"
+        },
+        {
+            "121-43-7": "TRIMETHYL BORATE"
+        },
+        {
+            "7439-96-5": "MANGANESE"
+        },
+        {
+            "5593-70-4": "TETRABUTYL TITANATE"
+        },
+        {
+            "59-26-7": "NICETHAMID"
+        },
+        {
+            "1116-54-7": "N-NITROSODIETHANOLAMINE"
+        },
+        {
+            "593-89-5": "METHYLDICHLOROARSINE"
+        },
+        {
+            "3322-93-8": "1-(1,2-DIBROMOETHYL)-3,4-DIBROMOCYCLOHEXANE"
+        },
+        {
+            "114-83-0": "1-ACETYL-2-PHENYLHYDRAZIDE"
+        },
+        {
+            "108-42-9": "M-CHLOROANILINE"
+        },
+        {
+            "68081-81-2": "SODIUM ALKYLBENZENESULFONATES"
+        },
+        {
+            "67805-95-2": "ISONONANOYL PEROXIDE"
+        },
+        {
+            "470-82-6": "1,8-CINEOL"
+        },
+        {
+            "108171-26-2": "CHLOROWAX 500C"
+        },
+        {
+            "998-30-1": "TRIETHOXYSILANE"
+        },
+        {
+            "1606-67-3": "1-AMINOPYRENE"
+        },
+        {
+            "111-65-9": "N-OCTANE"
+        },
+        {
+            "10102-44-0": "NITROGEN DIOXIDE"
+        },
+        {
+            "33089-61-1": "AMITRAZ"
+        },
+        {
+            "25321-09-9": "DIISOPROPYLBENZENE (ALL ISOMERS)"
+        },
+        {
+            "13473-90-0": "ALUMINUM NITRATE"
+        },
+        {
+            "110-97-4": "DIISOPROPANOLAMINE"
+        },
+        {
+            "94-59-7": "SAFROLE"
+        },
+        {
+            "28652-72-4": "METHYL BIPHENYL (MIXED ISOMERS)"
+        },
+        {
+            "3083-25-8": "1,2-EPOXY-4,4,4-TRICHLOROBUTANE"
+        },
+        {
+            "20816-12-0": "OSMIUM TETROXIDE"
+        },
+        {
+            "629-76-5": "PENTADECANOL"
+        },
+        {
+            "2244-21-5": "POTASSIUM DICHLORO-S-TRIAZINETRIONE, DRY"
+        },
+        {
+            "514-73-8": "DITHIAZANINE IODIDE"
+        },
+        {
+            "109-61-5": "N-PROPYL CHLOROFORMATE"
+        },
+        {
+            "68085-85-8": "CYHALOTHRIN"
+        },
+        {
+            "900-95-8": "STANNANE, ACETOXYTRIPHENYL-"
+        },
+        {
+            "1843-48-7": "TRIS(CARBAMOYLMETHYL) ISOCYANURATE"
+        },
+        {
+            "28108-99-8": "ISOPROPYLPHENYL DIPHENYL PHOSPHATE"
+        },
+        {
+            "1241-94-7": "2-ETHYLHEXYL DIPHENYL PHOSPHATE"
+        },
+        {
+            "1134-23-2": "CYCLOATE"
+        },
+        {
+            "590-86-3": "ISOVALERALDEHYDE"
+        },
+        {
+            "1303-00-0": "GALLIUM ARSENIDE"
+        },
+        {
+            "952-23-8": "PROFLAVINE HYDROCHLORIDE"
+        },
+        {
+            "25340-17-4": "DIETHYLBENZENE"
+        },
+        {
+            "353-50-4": "CARBONYL FLUORIDE"
+        },
+        {
+            "82657-04-3": "BIFENTHRIN"
+        },
+        {
+            "101-20-2": "TRICLOCARBAN"
+        },
+        {
+            "100-07-2": "4-METHOXYBENZOYL CHLORIDE"
+        },
+        {
+            "625-45-6": "METHOXYACETIC ACID"
+        },
+        {
+            "389-08-2": "NALIDIXIC ACID"
+        },
+        {
+            "507-40-4": "TERT-BUTYL HYPOCHLORITE"
+        },
+        {
+            "41122-70-7": "4-N-HEXYL-4'-CYANOBIPHENYL"
+        },
+        {
+            "302-17-0": "CHLORAL HYDRATE"
+        },
+        {
+            "25639-42-3": "METHYLCYCLOHEXANOL"
+        },
+        {
+            "90-13-1": "1-CHLORONAPHTHALENE"
+        },
+        {
+            "4548-53-2": "PONCEAU SX"
+        },
+        {
+            "2631-37-0": "PROMECARB"
+        },
+        {
+            "84-65-1": "ANTHRAQUINONE"
+        },
+        {
+            "22781-23-3": "BENDIOCARB"
+        },
+        {
+            "621-64-7": "N-NITROSODI-N-PROPYLAMINE"
+        },
+        {
+            "15110-74-4": "2,5-DINITRO-9H-FLUORENE"
+        },
+        {
+            "12136-45-7": "POTASSIUM MONOXIDE"
+        },
+        {
+            "20830-75-5": "DIGOXIN"
+        },
+        {
+            "1317-35-7": "MANGANESE TETROXIDE"
+        },
+        {
+            "75-74-1": "TETRAMETHYLLEAD"
+        },
+        {
+            "546-93-0": "MAGNESITE"
+        },
+        {
+            "84-15-1": "O-TERPHENYL"
+        },
+        {
+            "1068-27-5": "2,5-DIMETHYL-2,5-DI-(TERT-BUTYLPEROXY)HEXYNE-3"
+        },
+        {
+            "105-56-6": "ETHYL CYANOACETATE"
+        },
+        {
+            "52888-80-9": "CARBAMOTHIOIC ACID, DIPROPYL-, S-(PHENYLMETHYL) ESTER"
+        },
+        {
+            "4759-48-2": "CIS-RETINOIC ACID"
+        },
+        {
+            "40058-87-5": "ISOPROPYL 2-CHLOROPROPIONATE"
+        },
+        {
+            "15385-58-7": "MERCUROUS BROMIDE"
+        },
+        {
+            "85-22-3": "2,3,4,5,6-PENTABROMOETHYLBENZENE"
+        },
+        {
+            "59-87-0": "NITROFURAZONE"
+        },
+        {
+            "696-29-7": "ISOPROPYL CYCLOHEXANE"
+        },
+        {
+            "684-16-2": "HEXAFLUOROACETONE"
+        },
+        {
+            "62-44-2": "PHENACETIN"
+        },
+        {
+            "634-90-2": "1,2,3,5-TETRACHLOROBENZENE"
+        },
+        {
+            "127-85-5": "SODIUM ARSANILATE"
+        },
+        {
+            "111-20-6": "SEBACIC ACID"
+        },
+        {
+            "626-38-0": "SEC-AMYL ACETATE"
+        },
+        {
+            "2252-84-8": "HEPTAFLUOROPROPANE"
+        },
+        {
+            "140-31-8": "N-AMINOETHYLPIPERAZINE"
+        },
+        {
+            "2016-88-8": "AMILORIDE HYDROCHLORIDE"
+        },
+        {
+            "63-68-3": "L-METHIONINE"
+        },
+        {
+            "112-04-9": "OCTADECYLTRICHLOROSILANE"
+        },
+        {
+            "58-36-6": "PHENOXARSINE, 10,10'-OXYDI-"
+        },
+        {
+            "367-12-4": "2-FLUOROPHENOL"
+        },
+        {
+            "1066-30-4": "CHROMIC ACETATE"
+        },
+        {
+            "590-36-3": "2-METHYLPENTAN-2-OL"
+        },
+        {
+            "675-14-9": "CYANURIC FLUORIDE"
+        },
+        {
+            "1143-38-0": "ANTHRALIN"
+        },
+        {
+            "94-51-9": "DIPROPYLENE GLYCOL DIBENZOATE"
+        },
+        {
+            "107-27-7": "ETHYL MERCURY CHLORIDE"
+        },
+        {
+            "75-34-3": "1,1-DICHLOROETHANE"
+        },
+        {
+            "7758-19-2": "SODIUM CHLORITE"
+        },
+        {
+            "189-64-0": "DIBENZO(A,H)PYRENE"
+        },
+        {
+            "99-55-8": "5-NITRO-O-TOLUIDINE"
+        },
+        {
+            "2614-76-8": "2,2-DIHYDROPEROXYPROPANE"
+        },
+        {
+            "118-52-5": "1,3-DICHLORO-5,5-DIMETHYLHYDANTOIN"
+        },
+        {
+            "102-67-0": "TRIPROPYLALUMINUM"
+        },
+        {
+            "68425-31-0": "NATURAL GASOLINE"
+        },
+        {
+            "4507-98-6": "DI-(3,5,5-TRIMETHYL-1,2-DIOXOLANYL-3)PEROXIDE"
+        },
+        {
+            "25167-93-5": "CHLORONITROBENZENES"
+        },
+        {
+            "4342-03-4": "DACARBAZINE"
+        },
+        {
+            "78-44-4": "CARISOPRODOL"
+        },
+        {
+            "531-76-0": "D,L-SARCOLYSIN"
+        },
+        {
+            "542-92-7": "CYCLOPENTADIENE"
+        },
+        {
+            "594-42-3": "PERCHLOROMETHYL MERCAPTAN"
+        },
+        {
+            "6315-89-5": "3,4-DIMETHOXYANILINE"
+        },
+        {
+            "78-94-4": "METHYL VINYL KETONE"
+        },
+        {
+            "139-65-1": "4,4'-THIODIANILINE"
+        },
+        {
+            "352-93-2": "DIETHYL SULFIDE"
+        },
+        {
+            "123-23-9": "SUCCINIC ACID PEROXIDE"
+        },
+        {
+            "814-61-9": "BORON TRIFLUORIDE PROPIONIC ACID COMPLEX"
+        },
+        {
+            "576-24-9": "2,3-DICHLOROPHENOL"
+        },
+        {
+            "14797-65-0": "NITRITES, INORGANIC, N.O.S."
+        },
+        {
+            "2243-61-0": "1,4-NAPHTHALENEDIAMINE"
+        },
+        {
+            "58-33-3": "PROMETHAZINE HYDROCHLORIDE"
+        },
+        {
+            "42874-03-3": "OXYFLUORFEN"
+        },
+        {
+            "10599-90-3": "CHLORAMINE"
+        },
+        {
+            "7241-98-7": "AFLATOXIN G2"
+        },
+        {
+            "42296-74-2": "HEXADIENE"
+        },
+        {
+            "406-90-6": "FLUOROXENE"
+        },
+        {
+            "7713-79-3": "N-PHENYLMALEISOIMIDE"
+        },
+        {
+            "58164-88-8": "ANTIMONY LACTATE"
+        },
+        {
+            "507-55-1": "1,3-DICHLORO-1,1,2,2,3-PENTAFLUOROPROPANE"
+        },
+        {
+            "143-67-9": "VINBLASTINE SULFATE"
+        },
+        {
+            "7789-21-1": "FLUOROSULFONIC ACID"
+        },
+        {
+            "8024-37-1": "TURMERIC OLEO RESIN"
+        },
+        {
+            "2921-88-2": "CHLORPYRIFOS"
+        },
+        {
+            "2524-03-0": "DIMETHYL CHLOROTHIOPHOSPHATE"
+        },
+        {
+            "1321-31-9": "PHENETIDINES"
+        },
+        {
+            "1314-62-1": "VANADIUM PENTOXIDE"
+        },
+        {
+            "142582-74-9": "AMSCO SOLVENT F"
+        },
+        {
+            "18708-70-8": "2,4,6-TRICHLORONITROBENZENE"
+        },
+        {
+            "56-04-2": "METHYLTHIOURACIL"
+        },
+        {
+            "1338-23-4": "METHYL ETHYL KETONE PEROXIDE"
+        },
+        {
+            "645-09-0": "M-NITROBENZAMIDE"
+        },
+        {
+            "53-03-2": "PREDNISONE"
+        },
+        {
+            "60-34-4": "METHYLHYDRAZINE"
+        },
+        {
+            "521-35-7": "CANNABINOL"
+        },
+        {
+            "72178-02-0": "FOMESAFEN"
+        },
+        {
+            "16110-51-3": "CHROMOGLICIC ACID"
+        },
+        {
+            "531-85-1": "BENZIDINE DIHYDROCHLORIDE"
+        },
+        {
+            "7396-58-9": "DIDECYLMETHYL AMINE"
+        },
+        {
+            "4044-65-9": "BITOSCANATE"
+        },
+        {
+            "138-22-7": "BUTYL LACTATE"
+        },
+        {
+            "18883-66-4": "D-GLUCOSE, 2-DEOXY-2-[[(METHYLNITROSOAMINO)-CARBONYL]AMINO]-"
+        },
+        {
+            "58-08-2": "CAFFEINE"
+        },
+        {
+            "3234-28-4": "1,2-EPOXYTETRADECANE"
+        },
+        {
+            "3563-36-8": "SESQUIMUSTARD"
+        },
+        {
+            "96-80-0": "N,N-DIISOPROPYL ETHANOLAMINE"
+        },
+        {
+            "96-98-0": "4-METHYL-3-NITROBENZOIC ACID"
+        },
+        {
+            "13014-18-1": "2,4,ALPHA,ALPHA,ALPHA-PENTACHLOROTOLUENE"
+        },
+        {
+            "134-62-3": "N,N-DIETHYL-M-TOLUAMIDE"
+        },
+        {
+            "4128-73-8": "4,4'-DIISOCYANATODIPHENYL ETHER"
+        },
+        {
+            "57-83-0": "PROGESTERONE"
+        },
+        {
+            "134191-62-1": "DIDYMIUM NITRATE"
+        },
+        {
+            "624-83-9": "METHYL ISOCYANATE"
+        },
+        {
+            "26265-65-6": "LEAD THIOSULFATE"
+        },
+        {
+            "16962-07-5": "ALUMINUM BOROHYDRIDE"
+        },
+        {
+            "37324-23-5": "PCB-1262"
+        },
+        {
+            "107-94-8": "3-CHLOROPROPIONIC ACID"
+        },
+        {
+            "1552-42-7": "CRYSTAL VIOLET LACTONE"
+        },
+        {
+            "58-58-2": "PUROMYCIN DIHYDROCHLORIDE"
+        },
+        {
+            "422-44-6": "1,2-DICHLORO-1,1,2,3,3-PENTAFLUOROPROPANE"
+        },
+        {
+            "105-37-3": "ETHYL PROPIONATE"
+        },
+        {
+            "8001-28-3": "CROTON OIL"
+        },
+        {
+            "2475-45-8": "C.I. DISPERSE BLUE 1"
+        },
+        {
+            "148-01-6": "DINITOLMIDE"
+        },
+        {
+            "1271-28-9": "NICKELOCENE"
+        },
+        {
+            "38848-76-9": "1,1-DIMETHYL-1-(2-HYDROXYPROPYLAMINE)TETRADECANIMIDE"
+        },
+        {
+            "13446-10-1": "AMMONIUM PERMANGANATE"
+        },
+        {
+            "106-20-7": "2,2'-DIETHYLHEXYLAMINE"
+        },
+        {
+            "4726-14-1": "NITRALIN"
+        },
+        {
+            "56803-37-3": "TERT-BUTYLPHENYL DIPHENYL PHOSPHATE"
+        },
+        {
+            "3882-98-2": "2-AMINO-2-THIAZOLINE HYDROCHLORIDE"
+        },
+        {
+            "118-58-1": "BENZYL SALICYLATE"
+        },
+        {
+            "58-93-5": "HYDROCHLOROTHIAZIDE"
+        },
+        {
+            "623-15-4": "FURFURAL ACETONE"
+        },
+        {
+            "629-50-5": "TRIDECANE"
+        },
+        {
+            "60-33-3": "LINOLEIC ACID"
+        },
+        {
+            "25148-68-9": "N-METHYL-O-PHENYLENEDIAMINE DIHYDROCHLORIDE"
+        },
+        {
+            "17924-92-4": "ZEARALENONE"
+        },
+        {
+            "2303-16-4": "DIALLATE"
+        },
+        {
+            "123-39-7": "N-METHYLFORMAMIDE"
+        },
+        {
+            "25324-56-5": "STANNIC PHOSPHIDE"
+        },
+        {
+            "75-83-2": "NEOHEXANE"
+        },
+        {
+            "39638-32-9": "BIS(2-CHLOROISOPROPYL) ETHER"
+        },
+        {
+            "8001-25-0": "OILS, EDIBLE: OLIVE"
+        },
+        {
+            "2045-52-5": "PHENBENZAMINE HYDROCHLORIDE"
+        },
+        {
+            "99-97-8": "N,N-DIMETHYL-P-TOLUIDINE"
+        },
+        {
+            "629-06-1": "1-CHLOROHEPTANE"
+        },
+        {
+            "7778-44-1": "CALCIUM ARSENATE"
+        },
+        {
+            "126-98-7": "METHACRYLONITRILE, STABILIZED"
+        },
+        {
+            "143-27-1": "HEXADECYLAMINE"
+        },
+        {
+            "9004-66-4": "IRON DEXTRAN"
+        },
+        {
+            "101-05-3": "ANILAZINE"
+        },
+        {
+            "95-73-8": "2,4-DICHLOROTOLUENE"
+        },
+        {
+            "88-74-4": "O-NITROANILINE"
+        },
+        {
+            "6201-86-1": "3-AMINO-5-SULFOSALICYLIC ACID"
+        },
+        {
+            "1304-82-1": "BISMUTH TELLURIDE"
+        },
+        {
+            "1333-39-7": "PHENOLSULFONIC ACID, LIQUID"
+        },
+        {
+            "4403-90-1": "D & C GREEN 5"
+        },
+        {
+            "2185-92-4": "2-BIPHENYLAMINE HYDROCHLORIDE"
+        },
+        {
+            "7758-01-2": "POTASSIUM BROMATE"
+        },
+        {
+            "148-79-8": "THIABENDAZOLE"
+        },
+        {
+            "638-49-3": "N-AMYL FORMATE"
+        },
+        {
+            "107-71-1": "TERT-BUTYL PEROXYACETATE"
+        },
+        {
+            "1122-54-9": "4-ACETYLPYRIDINE"
+        },
+        {
+            "1122-60-7": "NITROCYCLOHEXANE"
+        },
+        {
+            "4719-04-4": "HEXAHYDRO-1,3,5-TRIS(HYDROXYETHYL)-5-TRIAZINE"
+        },
+        {
+            "12003-41-7": "ALUMINUM FERROSILICON POWDER"
+        },
+        {
+            "7425-80-1": "TETRAISOBUTYL TITANATE"
+        },
+        {
+            "115-25-3": "OCTAFLUOROCYCLOBUTANE"
+        },
+        {
+            "319-85-7": "BETA-BHC"
+        },
+        {
+            "542-75-6": "1,3-DICHLOROPROPENE"
+        },
+        {
+            "68783-78-8": "DIMETHYL DITALLOW AMMONIUM CHLORIDE"
+        },
+        {
+            "1303-28-2": "ARSENIC PENTOXIDE"
+        },
+        {
+            "57-85-2": "TESTOSTERONE PROPIONATE"
+        },
+        {
+            "591-27-5": "M-AMINOPHENOL"
+        },
+        {
+            "51-43-4": "EPINEPHRINE"
+        },
+        {
+            "1982-37-2": "METHDILAZINE"
+        },
+        {
+            "125-33-7": "PRIMACLONE"
+        },
+        {
+            "2244-16-8": "D-CARVONE"
+        },
+        {
+            "4316-42-1": "N,N-BUTYL IMIDAZOLE"
+        },
+        {
+            "107-13-1": "ACRYLONITRILE, STABILIZED"
+        },
+        {
+            "24169-02-6": "ECONAZOLE NITRATE"
+        },
+        {
+            "21908-53-2": "MERCURIC OXIDE, [SOLID]"
+        },
+        {
+            "814-68-6": "ACRYLYL CHLORIDE"
+        },
+        {
+            "1445-76-7": "CHLOROSARIN"
+        },
+        {
+            "27254-36-0": "NITRONAPHTHALENE"
+        },
+        {
+            "225-51-4": "BENZ[C]ACRIDINE"
+        },
+        {
+            "126-31-8": "IODOMETHANESULFONIC ACID, SODIUM SALT"
+        },
+        {
+            "80455-52-3": "CYCLOPENTAPHENANTHRENE"
+        },
+        {
+            "95-64-7": "3,4-XYLIDINE"
+        },
+        {
+            "97-53-0": "EUGENOL"
+        },
+        {
+            "3711-51-1": "DIETHYLTHIOPHOSPHORYL CHLORIDE, [LIQUID]"
+        },
+        {
+            "74-99-7": "1-PROPYNE"
+        },
+        {
+            "30560-19-1": "ACEPHATE"
+        },
+        {
+            "14644-61-2": "ZIRCONIUM SULFATE"
+        },
+        {
+            "75-20-7": "CALCIUM CARBIDE"
+        },
+        {
+            "7195-43-9": "ISOPHTHALIC DIGLYCIDYL ESTER"
+        },
+        {
+            "99-08-1": "M-NITROTOLUENE"
+        },
+        {
+            "759-94-4": "ETHYL DIPROPYLTHIOCARBAMATE"
+        },
+        {
+            "75-16-1": "METHYL MAGNESIUM BROMIDE IN ETHYL ETHER"
+        },
+        {
+            "3648-21-3": "DIHEPTYL PHTHALATE"
+        },
+        {
+            "609-31-4": "2-NITRO-1-BUTANOL"
+        },
+        {
+            "10347-54-3": "1,4-BIS(METHYLISOCYANATE)CYCLOHEXANE"
+        },
+        {
+            "95-82-9": "2,5-DICHLOROANILINE"
+        },
+        {
+            "540-73-8": "1,2-DIMETHYLHYDRAZINE"
+        },
+        {
+            "16949-65-8": "MAGNESIUM FLUOROSILICATE"
+        },
+        {
+            "98-12-4": "CYCLOHEXYLTRICHLOROSILANE"
+        },
+        {
+            "10039-54-0": "HYDROXYLAMINE SULFATE"
+        },
+        {
+            "124-11-8": "1-NONENE"
+        },
+        {
+            "75-45-6": "CHLORODIFLUOROMETHANE"
+        },
+        {
+            "513-48-4": "2-IODOBUTANE"
+        },
+        {
+            "1643-20-5": "DIMETHYLDODECYLAMINE-N-OXIDE"
+        },
+        {
+            "5464-79-9": "2-AMINO-4-METHOXYBENZOTHIAZOLE"
+        },
+        {
+            "1983-10-4": "TRIBUTYLTIN FLUORIDE"
+        },
+        {
+            "646-31-1": "N-TETRACOSANE"
+        },
+        {
+            "26401-97-8": "DI(N-OCTYL)TIN-S,S'-BIS(ISOOCTYLMERCAPTOACETATE)"
+        },
+        {
+            "69-65-8": "D-MANNITOL"
+        },
+        {
+            "7773-06-0": "AMMONIUM SULFAMATE"
+        },
+        {
+            "2275-18-5": "PROTHOATE"
+        },
+        {
+            "10222-01-2": "2,2-DIBROMO-3-NITRILOPROPIONAMIDE"
+        },
+        {
+            "1912-24-9": "ATRAZINE"
+        },
+        {
+            "13826-83-0": "AMMONIUM FLUOBORATE"
+        },
+        {
+            "96-12-8": "1,2-DIBROMO-3-CHLOROPROPANE"
+        },
+        {
+            "8007-70-3": "ANISE OIL"
+        },
+        {
+            "342-95-0": "O-D,L-SARCOLYSIN"
+        },
+        {
+            "106-92-3": "ALLYL GLYCIDYL ETHER"
+        },
+        {
+            "764-42-1": "FUMARONITRILE"
+        },
+        {
+            "86-30-6": "N-NITROSODIPHENYLAMINE"
+        },
+        {
+            "101-84-8": "DIPHENYL OXIDE"
+        },
+        {
+            "366-70-1": "PROCARBAZINE HYDROCHLORIDE"
+        },
+        {
+            "7787-71-5": "BROMINE TRIFLUORIDE"
+        },
+        {
+            "51-30-9": "ISOPROTERENOL HYDROCHLORIDE"
+        },
+        {
+            "1982-69-0": "SODIUM DICAMBA"
+        },
+        {
+            "75-08-1": "ETHYL MERCAPTAN"
+        },
+        {
+            "25155-25-3": "BIS(TERT-BUTYLDIOXYISOPROPYL)BENZENE"
+        },
+        {
+            "2097-19-0": "PHENYLSILATRANE"
+        },
+        {
+            "140-29-4": "PHENYLACETONITRILE, LIQUID"
+        },
+        {
+            "460-35-5": "3-CHLORO-1,1,1-TRIFLUOROPROPANE"
+        },
+        {
+            "3761-53-3": "C.I. FOOD RED 5"
+        },
+        {
+            "95-84-1": "2-AMINO-4-METHYLPHENOL"
+        },
+        {
+            "577-59-3": "O-NITROACETOPHENONE"
+        },
+        {
+            "138-93-2": "DISODIUM CYANODITHIOIMIDOCARBONATE"
+        },
+        {
+            "141-75-3": "BUTYRYL CHLORIDE"
+        },
+        {
+            "503-30-0": "1,3-PROPYLENE OXIDE"
+        },
+        {
+            "10108-64-2": "CADMIUM CHLORIDE"
+        },
+        {
+            "112-31-2": "DECALDEHYDE"
+        },
+        {
+            "529-20-4": "O-TOLUALDEHYDE"
+        },
+        {
+            "7783-50-8": "FERRIC FLUORIDE"
+        },
+        {
+            "13843-81-7": "LITHIUM DICHROMATE"
+        },
+        {
+            "645-62-5": "2-ETHYL-3-PROPYLACROLEIN"
+        },
+        {
+            "90982-32-4": "CHLORIMURON ETHYL"
+        },
+        {
+            "62-56-6": "THIOUREA"
+        },
+        {
+            "1646-88-4": "ALDICARB SULFONE"
+        },
+        {
+            "5329-14-6": "SULFAMIC ACID"
+        },
+        {
+            "334-48-5": "DECANOIC ACID"
+        },
+        {
+            "10102-49-5": "FERRIC ARSENATE"
+        },
+        {
+            "128-66-5": "C.I. VAT YELLOW 4"
+        },
+        {
+            "10431-47-7": "POTASSIUM SELENITE"
+        },
+        {
+            "13052-09-0": "2,5-DIMETHYL-2,5-DI-(2-ETHYLHEXANOYLPEROXY)HEXANE"
+        },
+        {
+            "4300-97-4": "CHLOROPIVALOYL CHLORIDE"
+        },
+        {
+            "821-55-6": "METHYL HEPTYL KETONE"
+        },
+        {
+            "91-59-8": "BETA-NAPHTHYLAMINE"
+        },
+        {
+            "7782-99-2": "SULFUROUS ACID"
+        },
+        {
+            "1459-10-5": "TETRADECYLBENZENE"
+        },
+        {
+            "4823-47-6": "2-BROMOETHYL ACRYLATE"
+        },
+        {
+            "139-87-7": "ETHYLDIETHANOLAMINE"
+        },
+        {
+            "2531-84-2": "2-METHYLPHENANTHRENE"
+        },
+        {
+            "111-91-1": "BIS(2-CHLOROETHOXY)METHANE, [LIQUID]"
+        },
+        {
+            "544-18-3": "COBALTOUS FORMATE"
+        },
+        {
+            "109-52-4": "PENTANOIC ACID"
+        },
+        {
+            "1309-60-0": "LEAD DIOXIDE"
+        },
+        {
+            "100-37-8": "2-DIETHYLAMINOETHANOL"
+        },
+        {
+            "15242-96-3": "STEARATOCHROMIUM CHLORIDE COMPLEX"
+        },
+        {
+            "28322-02-3": "N-(4-FLUORENYL)ACETAMIDE"
+        },
+        {
+            "57608-40-9": "AMMONIUM NITRATE-PHOSPHATE MIXTURE"
+        },
+        {
+            "90-12-0": "1-METHYLNAPHTHALENE"
+        },
+        {
+            "556-89-8": "NITROUREA"
+        },
+        {
+            "7289-37-4": "ETHOXYLATED DODECANOL"
+        },
+        {
+            "80-47-7": "P-MENTHANE HYDROPEROXIDE"
+        },
+        {
+            "7783-70-2": "ANTIMONY PENTAFLUORIDE"
+        },
+        {
+            "1335-31-5": "MERCURIC OXYCYANIDE"
+        },
+        {
+            "6533-73-9": "THALLOUS CARBONATE"
+        },
+        {
+            "109-90-0": "ETHYL ISOCYANATE"
+        },
+        {
+            "110-82-7": "CYCLOHEXANE"
+        },
+        {
+            "74-97-5": "BROMOCHLOROMETHANE"
+        },
+        {
+            "15512-36-4": "CALCIUM DITHIONITE"
+        },
+        {
+            "87-86-5": "PENTACHLOROPHENOL"
+        },
+        {
+            "7390-81-0": "1,2-EPOXYOCTADECANE"
+        },
+        {
+            "87-90-1": "TRICHLORO-S-TRIAZINETRIONE, DRY"
+        },
+        {
+            "298-12-4": "GLYOXYLIC ACID (50% OR LESS)"
+        },
+        {
+            "9010-69-9": "ZINC RESINATE"
+        },
+        {
+            "74-95-3": "DIBROMOMETHANE"
+        },
+        {
+            "3318-43-2": "INDOL-3-YL SODIUM PHOSPHATE"
+        },
+        {
+            "75-68-3": "1-CHLORO-1,1-DIFLUOROETHANE"
+        },
+        {
+            "14019-91-1": "CALCIUM SELENATE"
+        },
+        {
+            "497-04-1": "2-CHLORO-1,3-PROPANEDIOL"
+        },
+        {
+            "109-76-2": "1,3-DIAMINOPROPANE"
+        },
+        {
+            "75-87-6": "TRICHLOROACETALDEHYDE"
+        },
+        {
+            "4637-56-3": "4-QUINOLINAMINE-N-HYDROXY-1-OXIDE"
+        },
+        {
+            "97-93-8": "ALUMINUM TRIETHYL"
+        },
+        {
+            "63918-90-1": "BIS(2-CHLOROETHYLTHIOMETHYL)ETHER"
+        },
+        {
+            "36791-04-5": "RIBAVIRIN"
+        },
+        {
+            "71-63-6": "DIGITOXIN"
+        },
+        {
+            "51-79-6": "URETHANE"
+        },
+        {
+            "10124-48-8": "MERCURY AMMONIUM CHLORIDE"
+        },
+        {
+            "2832-40-8": "C.I. DISPERSE YELLOW 3"
+        },
+        {
+            "108-29-2": "GAMMA-VALEROLACTONE"
+        },
+        {
+            "118-75-2": "CHLORANIL"
+        },
+        {
+            "142-88-1": "PIPERAZINE ADIPATE"
+        },
+        {
+            "563-43-9": "ETHYL ALUMINUM DICHLORIDE"
+        },
+        {
+            "106-38-7": "P-BROMOTOLUENE"
+        },
+        {
+            "2303-17-5": "TRIALLATE, [SOLID]"
+        },
+        {
+            "1321-64-8": "PENTACHLORONAPHTHALENE"
+        },
+        {
+            "673-06-3": "D-PHENYLALANINE"
+        },
+        {
+            "105-46-4": "SEC-BUTYL ACETATE"
+        },
+        {
+            "982-57-0": "CHLORAMPHENICOL SODIUM SUCCINATE"
+        },
+        {
+            "3288-58-2": "O,O-DIETHYL S-METHYL DITHIOPHOSPHATE"
+        },
+        {
+            "70955-34-9": "FATTY ACIDS, TALL OIL, REACTION PRODUCTS WITH 2-[(2-AMINOETHYL)-\\ AMINO]ETHANOL, QUATERNIZED WITH DIETHYL SULFATE"
+        },
+        {
+            "7759-01-5": "LEAD TUNGSTATE"
+        },
+        {
+            "12788-93-1": "ACID BUTYL PHOSPHATE"
+        },
+        {
+            "156-87-6": "N-PROPANOLAMINE"
+        },
+        {
+            "262-12-4": "DIBENZO-P-DIOXIN"
+        },
+        {
+            "8066-33-9": "PENTOLITE, [DRY]"
+        },
+        {
+            "1303-86-2": "BORON OXIDE"
+        },
+        {
+            "93-79-8": "2,4,5-T, N-BUTYL ESTER"
+        },
+        {
+            "1031-47-6": "TRIAMIPHOS"
+        },
+        {
+            "148-65-2": "CHLOROTHEN"
+        },
+        {
+            "5929-09-9": "BENZETHONIUM CHLORIDE MONOHYDRATE"
+        },
+        {
+            "557-19-7": "NICKEL CYANIDE"
+        },
+        {
+            "64-10-8": "PHENYL UREA PESTICIDE, LIQUID, POISONOUS"
+        },
+        {
+            "70892-11-4": "FUEL OIL, [NO. 5]"
+        },
+        {
+            "62-55-5": "THIOACETAMIDE"
+        },
+        {
+            "505-22-6": "1,3-DIOXANE"
+        }
+    ],
+    "fail_item": [
+        {
+            "76-14-2": ""
+        },
+        {
+            "112-42-5": ""
+        },
+        {
+            "96-36-6": ""
+        },
+        {
+            "84852-15-3": ""
+        },
+        {
+            "515-98-0": ""
+        },
+        {
+            "1397-89-3": ""
+        },
+        {
+            "60999-18-0": ""
+        },
+        {
+            "11113-50-1": ""
+        },
+        {
+            "5768-87-6": ""
+        },
+        {
+            "14216-75-2": ""
+        },
+        {
+            "10102-48-4": ""
+        },
+        {
+            "60475-66-3": ""
+        },
+        {
+            "506-93-4": ""
+        },
+        {
+            "55671-32-4": ""
+        },
+        {
+            "8002-50-4": ""
+        },
+        {
+            "10031-59-1": ""
+        },
+        {
+            "70892-10-3": ""
+        },
+        {
+            "2971-38-2": ""
+        },
+        {
+            "7428-48-0": ""
+        },
+        {
+            "1929-73-3": ""
+        },
+        {
+            "541-85-5": ""
+        },
+        {
+            "55810-17-8": ""
+        },
+        {
+            "15347-57-6": ""
+        },
+        {
+            "30652-87-0": ""
+        },
+        {
+            "42397-65-9": ""
+        },
+        {
+            "10294-39-0": ""
+        },
+        {
+            "26635-63-2": ""
+        },
+        {
+            "5103-71-9": ""
+        },
+        {
+            "91-23-6": ""
+        },
+        {
+            "7601-54-9": ""
+        },
+        {
+            "7782-86-7": ""
+        },
+        {
+            "19472-74-3": ""
+        },
+        {
+            "29734-26-7": ""
+        },
+        {
+            "104-91-6": ""
+        },
+        {
+            "97502-85-7": ""
+        },
+        {
+            "10124-37-5": ""
+        },
+        {
+            "16532-79-9": ""
+        },
+        {
+            "84540-57-8": ""
+        },
+        {
+            "26644-00-8": ""
+        },
+        {
+            "60851-34-5": ""
+        },
+        {
+            "25167-82-2": ""
+        },
+        {
+            "513-49-5": ""
+        },
+        {
+            "68155-93-1": ""
+        },
+        {
+            "26101-97-3": ""
+        },
+        {
+            "10034-93-2": ""
+        },
+        {
+            "53014-37-2": ""
+        },
+        {
+            "6009-70-7": ""
+        },
+        {
+            "29759-38-4": ""
+        },
+        {
+            "121-21-1": ""
+        },
+        {
+            "25339-56-4": ""
+        },
+        {
+            "1309-37-1": ""
+        },
+        {
+            "77-09-8": ""
+        },
+        {
+            "6487-48-5": ""
+        },
+        {
+            "51938-25-1": ""
+        },
+        {
+            "10031-18-2": ""
+        },
+        {
+            "5103-74-2": ""
+        },
+        {
+            "57862-56-3": ""
+        },
+        {
+            "26763-63-3": ""
+        },
+        {
+            "2764-72-9": ""
+        },
+        {
+            "129-79-3": ""
+        },
+        {
+            "17372-87-1": ""
+        },
+        {
+            "2545-59-7": ""
+        },
+        {
+            "1928-47-8": ""
+        },
+        {
+            "56189-09-4": ""
+        },
+        {
+            "762-04-9": ""
+        },
+        {
+            "10102-18-8": ""
+        },
+        {
+            "1345-25-1": ""
+        },
+        {
+            "1344-09-8": ""
+        },
+        {
+            "108171-27-3": ""
+        },
+        {
+            "102-07-8": ""
+        },
+        {
+            "10102-06-4": ""
+        },
+        {
+            "9005-90-7": ""
+        },
+        {
+            "8049-18-1": ""
+        },
+        {
+            "107-01-7": ""
+        },
+        {
+            "75-66-1": ""
+        },
+        {
+            "25167-67-3": ""
+        },
+        {
+            "12044-79-0": ""
+        },
+        {
+            "661-20-1": ""
+        },
+        {
+            "6032-29-7": ""
+        },
+        {
+            "27176-93-8": ""
+        },
+        {
+            "8016-13-5": ""
+        },
+        {
+            "10103-47-6": ""
+        },
+        {
+            "127087-87-0": ""
+        },
+        {
+            "371-40-4": ""
+        },
+        {
+            "19735-89-8": ""
+        },
+        {
+            "13478-00-7": ""
+        },
+        {
+            "90481-04-2": ""
+        },
+        {
+            "30031-64-2": ""
+        },
+        {
+            "620-14-4": ""
+        }
+    ],
+    "muiltiple_item": [
+        {
+            "556-88-7": [
+                "NITROGUANIDINE, [DRY]",
+                "NITROGUANIDINE, WETTED WITH NOT LESS THAN 20% WATER"
+            ]
+        },
+        {
+            "3811-04-9": [
+                "POTASSIUM CHLORATE",
+                "POTASSIUM CHLORATE, AQUEOUS SOLUTION"
+            ]
+        },
+        {
+            "10024-97-2": [
+                "NITROUS OXIDE",
+                "NITROUS OXIDE, REFRIGERATED LIQUID"
+            ]
+        },
+        {
+            "132259-10-0": [
+                "AIR, COMPRESSED",
+                "AIR, REFRIGERATED LIQUID (CRYOGENIC LIQUID)"
+            ]
+        },
+        {
+            "124-09-4": [
+                "HEXAMETHYLENEDIAMINE, SOLID",
+                "HEXAMETHYLENEDIAMINE, SOLUTION"
+            ]
+        },
+        {
+            "82-71-3": [
+                "TRINITRORESORCINOL",
+                "TRINITRORESORCINOL, [WET WITH >= 20 % WATER OR MIXTURE OF ALCOHOL AND WATER]"
+            ]
+        },
+        {
+            "10192-30-0": [
+                "AMMONIUM BISULFITE, SOLID",
+                "AMMONIUM BISULFITE, SOLUTION"
+            ]
+        },
+        {
+            "7664-39-3": [
+                "HYDROFLUORIC ACID, SOLUTION",
+                "HYDROGEN FLUORIDE, ANHYDROUS"
+            ]
+        },
+        {
+            "124-40-3": [
+                "DIMETHYLAMINE, ANHYDROUS",
+                "DIMETHYLAMINE, AQUEOUS SOLUTION"
+            ]
+        },
+        {
+            "16961-83-4": [
+                "FLUOROSILICIC ACID",
+                "HYDROFLUOROSILICIC ACID (25% OR LESS)"
+            ]
+        },
+        {
+            "109-13-7": [
+                "TERT-BUTYL PEROXYISOBUTYRATE, [<= 52% IN BENZENE SOLUTION]",
+                "TERT-BUTYL PEROXYISOBUTYRATE, [> 52% BUT <= 77% IN BENZENE SOLUTION]"
+            ]
+        },
+        {
+            "7429-90-5": [
+                "ALUMINUM POWDER, COATED",
+                "ALUMINUM POWDER, PYROPHORIC",
+                "ALUMINUM POWDER, UNCOATED",
+                "ALUMINUM, MOLTEN"
+            ]
+        },
+        {
+            "6484-52-2": [
+                "AMMONIUM NITRATE",
+                "AMMONIUM NITRATE BASED FERTILIZERS",
+                "AMMONIUM NITRATE EMULSION <OR> AMMONIUM NITRATE SUSPENSION <OR> AMMONIUM NITRATE GEL, INTERMEDIATE FOR BLASTING EXPLOSIVES",
+                "AMMONIUM NITRATE-FUEL OIL MIXTURES",
+                "AMMONIUM NITRATE, LIQUID (HOT CONCENTRATED SOLUTION)",
+                "NITRATE OF AMMONIA EXPLOSIVES"
+            ]
+        },
+        {
+            "94-17-7": [
+                "P-CHLOROBENZOYL PEROXIDE",
+                "P-CHLOROBENZOYL PEROXIDE, [<= 52% AS A PASTE]",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "65-30-5": [
+                "NICOTINE SULFATE, SOLID",
+                "NICOTINE SULFATE, SOLUTION",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "540-72-7": [
+                "SODIUM THIOCYANATE",
+                "SODIUM THIOCYANATE SOLUTION (56% OR LESS)",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "56-38-2": [
+                "PARATHION",
+                "PARATHION AND COMPRESSED GAS MIXTURE",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "831-52-7": [
+                "SODIUM PICRAMATE",
+                "SODIUM PICRAMATE, WETTED WITH NOT LESS THAN 20% WATER",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "7783-81-5": [
+                "RADIOACTIVE MATERIAL, URANIUM HEXAFLUORIDE, FISSILE",
+                "RADIOACTIVE MATERIAL, URANIUM HEXAFLUORIDE, NON-FISSILE OR FISSILE EXCEPTED",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "7775-11-3": [
+                "SODIUM CHROMATE",
+                "SODIUM CHROMATE SOLUTION",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "7447-39-4": [
+                "COPPER CHLORIDE",
+                "CUPRIC CHLORIDE SOLUTION, [AMMONIATED]",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "99-35-4": [
+                "TRINITROBENZENE, [DRY]",
+                "TRINITROBENZENE, [WETTED WITH NOT LESS THAN 10% WATER BY MASS]",
+                "TRINITROBENZENE, WETTED WITH NOT LESS THAN 30% WATER",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "25154-54-5": [
+                "DINITROBENZENE SOLUTION",
+                "DINITROBENZENES",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "18810-58-7": [
+                "BARIUM AZIDE, [DRY OR WETTED WITH < 50 % WATER]",
+                "BARIUM AZIDE, WETTED WITH NOT LESS THAN 50% WATER",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "14264-31-4": [
+                "SODIUM CUPROCYANIDE, SOLID",
+                "SODIUM CUPROCYANIDE, SOLUTION",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "7440-09-7": [
+                "POTASSIUM",
+                "POTASSIUM, METAL ALLOYS",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "9004-70-0": [
+                "COLLODION",
+                "NITROCELLULOSE MEMBRANE FILTERS",
+                "NITROCELLULOSE WITH ALCOHOL",
+                "NITROCELLULOSE WITH WATER, NOT LESS THAN 25% WATER",
+                "NITROCELLULOSE, [DRY]",
+                "NITROCELLULOSE, [WITH PLASTICIZER]",
+                "NITROCELLULOSE, BLOCK, WET, WITH NOT LESS THAN 25% ALCOHOL",
+                "NITROCELLULOSE, SOLUTION, FLAMMABLE",
+                "PYROXYLIN SOLUTION"
+            ]
+        },
+        {
+            "22397-33-7": [
+                "3,3,6,6,9,9-HEXAMETHYL-1,2,4,5-TETRAOXACYCLONONANE",
+                "3,3,6,6,9,9-HEXAMETHYL-1,2,4,5-TETRAOXOCYCLONONANE, [<= 52% IN SOLUTION]",
+                "3,3,6,6,9,9-HEXAMETHYL-1,2,4,5-TETRAOXOCYCLONONANE, [<= 52% WITH INERT SOLID]",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "131-74-8": [
+                "AMMONIUM PICRATE, [DRY]",
+                "AMMONIUM PICRATE, WETTED WITH NOT LESS THAN 10% WATER",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "96-91-3": [
+                "2-AMINO-4,6-DINITROPHENOL",
+                "2-AMINO-4,6-DINITROPHENOL, WETTED WITH NOT LESS THAN 20% WATER",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "2618-77-1": [
+                "2,5-DIMETHYL-2,5-DI-(BENZOYLPEROXY)HEXANE",
+                "2,5-DIMETHYL-2,5-DI-(BENZOYLPEROXY)HEXANE, [<= 82% WITH INERT SOLID]",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "7782-44-7": [
+                "OXYGEN",
+                "OXYGEN AND RARE GASES MIXTURE",
+                "OXYGEN GAS, REFRIGERATED LIQUID, OXIDIZING, N.O.S.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "757-58-4": [
+                "HEXAETHYL TETRAPHOSPHATE",
+                "HEXAETHYL TETRAPHOSPHATE AND COMPRESSED GAS MIXTURE",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "1194-65-6": [
+                "DICHLOBENIL",
+                "DICHLOBENIL, [OTHER THAN LIQUID]",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "79-11-8": [
+                "CHLOROACETIC ACID, SOLID",
+                "CHLOROACETIC ACID, SOLUTION",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "7440-39-3": [
+                "BARIUM",
+                "BARIUM ALLOYS, PYROPHORIC",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "74-85-1": [
+                "ETHYLENE",
+                "ETHYLENE, REFRIGERATED LIQUID (CRYOGENIC LIQUID)",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}
