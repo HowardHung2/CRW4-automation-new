@@ -59,7 +59,7 @@ def should_skip(batch_name, done_set):
 
 def main():
     # 1. 讀取 JSON 檔案，抽取 success_item 並取出 CAS 號碼列表
-    json_path = r"/Users/howardhung/Vscode/CRW4-automation-new/rollback_test/SDS_911058_001_20251021.json"
+    json_path = r"/Users/howardhung/Vscode/CRW4-automation-new/record_test/SDS_911058_001_20251021.json"
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
@@ -79,7 +79,7 @@ def main():
     group_labels = [chr(ord('A') + i) for i in range(len(groups))]
     
     # A.json, B.json, ...
-    output_base = r"/Users/howardhung/Vscode/CRW4-automation-new/rollback_test/"
+    output_base = r"/Users/howardhung/Vscode/CRW4-automation-new/record_test/"
     for label, group in zip(group_labels, groups):
         print(f"組 {label} 有 {len(group)} 筆資料")
         file_name = f"{output_base}{label}.json"
